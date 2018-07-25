@@ -107,3 +107,108 @@ body {
 
 .border-top { border-top: 1px solid #e5e5e5; }
 .border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+#right-sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    right: 250px;
+    width: 0;
+    height: 100%;
+    margin-right: -250px;
+    overflow-y: auto;
+    background: #000;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+@media (min-width: 768px)
+#right-sidebar-wrapper {
+    width: 250px;
+}
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+@media (min-width: 768px)
+#page-content-wrapper {
+    padding: 20px;
+    position: relative;
+}
+img{
+	padding: 0;
+	margin: 0;
+}
+.id{
+	
+}
+.name{
+	font-weight: 700;
+}
+.sprite{
+	height: 50px;
+}
+.sprite img{
+ height:100%;
+}
+.type{
+	color: floralwhite;
+	border-radius: 10px;
+	text-align: center;
+}
+td.Grass{
+	background-color: forestgreen;
+}
+td.Water{
+	background-color:aqua;
+}
+td.Bug{
+	background-color: yellowgreen;
+}
+td.Dark{
+	background-color:darkslategray;
+}
+td.Dragon{
+	background-color: rebeccapurple;
+}
+td.Electric{
+	color:dimgray;
+	background-color:yellow;
+}
+td.Fighting{
+	background-color: orangered;
+}
+td.Flying{
+	background-color:skyblue;
+}
+td.Ghost{
+	background-color: mediumpurple;
+}
+td.Ground{
+	background-color:sandybrown;
+}
+td.Ice{
+	color:dimgray;
+	background-color: aliceblue;
+}
+td.Normal{
+	background-color:whitesmoke;
+}
+td.Poison{
+	background-color: purple;
+}
+td.Psychic{
+	background-color:pink;
+}
+td.Rock{
+	background-color: saddlebrown;
+}
+td.Steel{
+	color:dimgray;
+	background-color:lightslategray;
+}
+#pokemon-list::-webkit-scrollbar {
+    visibility: hidden;
+	display: none;
+}

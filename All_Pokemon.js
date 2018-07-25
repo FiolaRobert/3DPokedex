@@ -1,4 +1,4 @@
-[
+var allPokemon=[
   {
     "Kdex": "#001",
     "Ndex": "#001",
@@ -1353,30 +1353,6 @@
     "Type2": ""
   },
   {
-    "Kdex": "Hottest Games 2018",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Generation II",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Jdex",
-    "Ndex": "Ndex",
-    "Name": "Pokémon",
-    "MS": "MS",
-    "Type1": "Type",
-    "Type2": ""
-  },
-  {
     "Kdex": "#001",
     "Ndex": "#152",
     "Name": "Chikorita",
@@ -2175,22 +2151,6 @@
     "MS": "",
     "Type1": "Psychic",
     "Type2": "Grass"
-  },
-  {
-    "Kdex": "Generation III",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Hdex",
-    "Ndex": "Ndex",
-    "Name": "Pokémon",
-    "MS": "MS",
-    "Type1": "Type",
-    "Type2": ""
   },
   {
     "Kdex": "#001",
@@ -3321,22 +3281,6 @@
     "Type2": ""
   },
   {
-    "Kdex": "Generation IV",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Sdex",
-    "Ndex": "Ndex",
-    "Name": "Pokémon",
-    "MS": "MS",
-    "Type1": "Type",
-    "Type2": ""
-  },
-  {
     "Kdex": "#001",
     "Ndex": "#387",
     "Name": "Turtwig",
@@ -4296,22 +4240,7 @@
     "Type1": "Normal",
     "Type2": ""
   },
-  {
-    "Kdex": "Generation V",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Udex",
-    "Ndex": "Ndex",
-    "Name": "Pokémon",
-    "MS": "MS",
-    "Type1": "Type",
-    "Type2": ""
-  },
+  
   {
     "Kdex": "#000",
     "Ndex": "#494",
@@ -5609,22 +5538,6 @@
     "Type2": "Steel"
   },
   {
-    "Kdex": "Generation VI",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Ce/Co/Mo Kdex",
-    "Ndex": "Ndex",
-    "Name": "Pokémon",
-    "MS": "MS",
-    "Type1": "Type",
-    "Type2": ""
-  },
-  {
     "Kdex": "#001Ce",
     "Ndex": "#650",
     "Name": "Chespin",
@@ -6207,22 +6120,6 @@
     "MS": "",
     "Type1": "Fire",
     "Type2": "Water"
-  },
-  {
-    "Kdex": "Generation VII",
-    "Ndex": "",
-    "Name": "",
-    "MS": "",
-    "Type1": "",
-    "Type2": ""
-  },
-  {
-    "Kdex": "Adex",
-    "Ndex": "Ndex",
-    "Name": "Pokémon",
-    "MS": "MS",
-    "Type1": "Type",
-    "Type2": ""
   },
   {
     "Kdex": "#001",

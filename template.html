@@ -2,22 +2,23 @@
 <!doctype html>
 <html lang="en">
   <head>
+		
 		<meta name="description" content="">
-   <!-- <meta charset="utf-8">
+		<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <meta name="author" content="">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
---><script src="background.js"></script>
-<script src="All_Pokemon.js"></script>
-<div w3-include-html="meta.html"></div>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+    
+		<script src="background.js"></script>
+		<script src="All_Pokemon.js"></script>
+
 
     <title>3D Pokedex</title>
 
     <!-- Bootstrap core CSS -->
-   
-
+    
     <!-- Custom styles for this template -->
     <link href="dashboard.css" rel="stylesheet">
 		
@@ -26,8 +27,9 @@
   <body>
     <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
       <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">3D Pokedex <i class="fa fa-pokeball"></i></a>
-<!--      <input class="form-control  form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">-->
-			<input type='select' datalist='pokelist' class='form-control form-control-dark w-100' placeholder="Search" aria-label="Search">
+<!--      <input class="form-control  form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">--><button class='btn btn-sm btn-outline-secondary'>Search</button>
+			<input type='select' datalist='pokelist' class='form-control form-control-dark w-100' placeholder="Search" aria-label="Search" >
+			
 			<datalist id='pokelist'></datalist>
 			<ul class="navbar-nav px-3">
         <li class="nav-item text-nowrap">
@@ -127,12 +129,12 @@
                     <th>Type(s)</th>
                     <th></th>
                 </tr>
-									<tr id='0'>
-									<td class='id'>#</td>
-                    <td class='sprite'></td>
+									<tr id='0' onclick="selectPokemon(this.id)">
+										<td class='id'>#</td>
+                    <td class='sprite'><img src="https://cdn.bulbagarden.net/upload/e/ec/001MS.png"></td>
                     <td class='name'>Pokemon</td>
-                    <td class='type bg-danger'>Type1</td>
-                    <td class='type bg-primary'>Type2</td>
+                    <td class='type Grass'>Type1</td>
+                    <td class='type'>Type2</td>
 											
 									</tr>
               </thead>
@@ -149,32 +151,42 @@
 <!--					Dashboard Main-->
         <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
           <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-						<!--					include pokegrid.html-->
-
-           <div w3-include-html="pokeGrid.html"></div>
+            <h1 class="h2">Pokedex</h1>
+							<h2 id='title' class="display-3">#001 - Bulbasaur</h2>
+            <div class="btn-toolbar mb-2 mb-md-0">
+              <div class="btn-group mr-2">
+                <button class="btn btn-sm btn-outline-secondary">Read</button>
+                <button class="btn btn-sm btn-outline-secondary">Cry</button>
+              </div>
+							<input type="select" list="options" onclick="options(this.value)">
+							<datalist id='options'>
+							<option>Hello</option>
+							</datalist>
+              <button class="btn btn-sm btn-outline-secondary dropdown-toggle">
+                <span data-feather="calendar"></span>
+                This week
+              </button>
+            </div>
           </div>
 					
 					
-         
-					
+          <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
+<!--						include description.html-->
+					<div w3-include-html="description.html"></div>
+<!--					include pokegrid.html-->
 					
         </main>
+				
+
       </div>
     </div>
 
     <!-- Bootstrap core JavaScrip ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+    <div w3-include-html="scripts.html"></div>
 		<script src="pokemon-list.js"></script>
 
-    <!-- Icons -->
-    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
-    <script>
-			
-      feather.replace()
-    </script>
+    
 
     <!-- Graphs -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
