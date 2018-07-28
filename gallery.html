@@ -1,0 +1,72 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+		<!--#include virtual="meta.html" -->
+		<meta name="description" content="">
+		<meta name="author" content="">
+    
+		<script src="background.js"></script>
+		<script src="All_Pokemon.js"></script>
+
+
+    <title>3D Pokedex</title>
+
+    <!-- Bootstrap core CSS -->
+    
+    <!-- Custom styles for this template -->
+    <link href="dashboard.css" rel="stylesheet">
+		
+  </head>
+
+  <body>
+<!--#include virtual="topnav.html" -->
+    <div class="container-fluid ">
+      <div class="row">
+
+<!--#include virtual="leftnav.html" -->
+					
+          
+
+<!--					Dashboard Main-->
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 class="h2">Pokedex</h1>
+							<h2 id='title' class="display-3">#001 - Bulbasaur</h2>
+            <div class="btn-toolbar mb-2 mb-md-0">
+              <div class="btn-group mr-2">
+                <button class="btn btn-sm btn-outline-secondary">Read</button>
+                <button class="btn btn-sm btn-outline-secondary">Cry</button>
+              </div>
+							<input type="select" list="options" onclick="options(this.value)">
+							<datalist id='options'>
+							<option>Hello</option>
+							</datalist>
+              <button class="btn btn-sm btn-outline-secondary dropdown-toggle">
+                <span data-feather="calendar"></span>
+                This week
+              </button>
+            </div>
+          </div>
+					
+					
+          <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
+
+<!--#include virtual="pokeGrid.html" -->
+					
+        </main>
+				
+
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScrip ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+ 
+		
+<!--#include virtual="scripts.html" -->
+    <script src="pokemon-list.js"></script>
+
+		
+  </body>
+</html>

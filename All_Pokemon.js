@@ -3,8 +3,9 @@ var allPokemon=[
     "Kdex": "#001",
     "Ndex": "#001",
     "Name": "Bulbasaur",
-		"Sprite": "https://cdn.bulbagarden.net/upload/e/ec/001MS.png",
-    "MS": "https://archives.bulbagarden.net/media/upload/d/d4/001Bulbasaur_3D_Pro.png",
+		"Sprite": "",
+
+		"MS": "https://archives.bulbagarden.net/media/upload/d/d4/001Bulbasaur_3D_Pro.png",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -12,7 +13,9 @@ var allPokemon=[
     "Kdex": "#002",
     "Ndex": "#002",
     "Name": "Ivysaur",
-    "MS": "https://archives.bulbagarden.net/media/upload/5/52/GO002.png",
+		"Sprite": "",
+  
+		"MS": "https://archives.bulbagarden.net/media/upload/5/52/GO002.png",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -20,7 +23,9 @@ var allPokemon=[
     "Kdex": "#003",
     "Ndex": "#003",
     "Name": "Venusaur",
-    "MS": "https://archives.bulbagarden.net/media/upload/9/97/GO003.png",
+		"Sprite": "",
+ 
+		"MS": "https://archives.bulbagarden.net/media/upload/9/97/GO003.png",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -28,6 +33,8 @@ var allPokemon=[
     "Kdex": "#004",
     "Ndex": "#004",
     "Name": "Charmander",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": ""
@@ -36,6 +43,8 @@ var allPokemon=[
     "Kdex": "#005",
     "Ndex": "#005",
     "Name": "Charmeleon",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": ""
@@ -44,7 +53,8 @@ var allPokemon=[
     "Kdex": "#006",
     "Ndex": "#006",
     "Name": "Charizard",
-    "MS": "",
+		"Sprite": "",
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying"
   },
@@ -52,7 +62,8 @@ var allPokemon=[
     "Kdex": "#007",
     "Ndex": "#007",
     "Name": "Squirtle",
-    "MS": "",
+		"Sprite": "",
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -60,7 +71,8 @@ var allPokemon=[
     "Kdex": "#008",
     "Ndex": "#008",
     "Name": "Wartortle",
-    "MS": "",
+		"Sprite": "",
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -68,7 +80,9 @@ var allPokemon=[
     "Kdex": "#009",
     "Ndex": "#009",
     "Name": "Blastoise",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -76,7 +90,9 @@ var allPokemon=[
     "Kdex": "#010",
     "Ndex": "#010",
     "Name": "Caterpie",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -84,7 +100,9 @@ var allPokemon=[
     "Kdex": "#011",
     "Ndex": "#011",
     "Name": "Metapod",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -92,6 +110,8 @@ var allPokemon=[
     "Kdex": "#012",
     "Ndex": "#012",
     "Name": "Butterfree",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
@@ -100,7 +120,9 @@ var allPokemon=[
     "Kdex": "#013",
     "Ndex": "#013",
     "Name": "Weedle",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -108,7 +130,9 @@ var allPokemon=[
     "Kdex": "#014",
     "Ndex": "#014",
     "Name": "Kakuna",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -116,7 +140,9 @@ var allPokemon=[
     "Kdex": "#015",
     "Ndex": "#015",
     "Name": "Beedrill",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -124,7 +150,9 @@ var allPokemon=[
     "Kdex": "#016",
     "Ndex": "#016",
     "Name": "Pidgey",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -132,7 +160,9 @@ var allPokemon=[
     "Kdex": "#017",
     "Ndex": "#017",
     "Name": "Pidgeotto",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -140,7 +170,9 @@ var allPokemon=[
     "Kdex": "#018",
     "Ndex": "#018",
     "Name": "Pidgeot",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -148,7 +180,9 @@ var allPokemon=[
     "Kdex": "#019",
     "Ndex": "#019",
     "Name": "Rattata",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -156,7 +190,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#019",
     "Name": "Rattata",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Normal"
   },
@@ -164,7 +200,9 @@ var allPokemon=[
     "Kdex": "#020",
     "Ndex": "#020",
     "Name": "Raticate",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -172,7 +210,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#020",
     "Name": "Raticate",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Normal"
   },
@@ -180,7 +220,9 @@ var allPokemon=[
     "Kdex": "#021",
     "Ndex": "#021",
     "Name": "Spearow",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -188,7 +230,9 @@ var allPokemon=[
     "Kdex": "#022",
     "Ndex": "#022",
     "Name": "Fearow",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -196,7 +240,9 @@ var allPokemon=[
     "Kdex": "#023",
     "Ndex": "#023",
     "Name": "Ekans",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -204,7 +250,9 @@ var allPokemon=[
     "Kdex": "#024",
     "Ndex": "#024",
     "Name": "Arbok",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -212,7 +260,9 @@ var allPokemon=[
     "Kdex": "#025",
     "Ndex": "#025",
     "Name": "Pikachu",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -220,7 +270,9 @@ var allPokemon=[
     "Kdex": "#026",
     "Ndex": "#026",
     "Name": "Raichu",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -228,7 +280,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#026",
     "Name": "Raichu",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Psychic"
   },
@@ -236,7 +290,9 @@ var allPokemon=[
     "Kdex": "#027",
     "Ndex": "#027",
     "Name": "Sandshrew",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -244,7 +300,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#027",
     "Name": "Sandshrew",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Steel"
   },
@@ -252,7 +310,9 @@ var allPokemon=[
     "Kdex": "#028",
     "Ndex": "#028",
     "Name": "Sandslash",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -260,7 +320,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#028",
     "Name": "Sandslash",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Steel"
   },
@@ -268,7 +330,9 @@ var allPokemon=[
     "Kdex": "#029",
     "Ndex": "#029",
     "Name": "Nidoran?",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -276,7 +340,9 @@ var allPokemon=[
     "Kdex": "#030",
     "Ndex": "#030",
     "Name": "Nidorina",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -284,7 +350,9 @@ var allPokemon=[
     "Kdex": "#031",
     "Ndex": "#031",
     "Name": "Nidoqueen",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Ground"
   },
@@ -292,7 +360,9 @@ var allPokemon=[
     "Kdex": "#032",
     "Ndex": "#032",
     "Name": "Nidoran?",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -300,7 +370,9 @@ var allPokemon=[
     "Kdex": "#033",
     "Ndex": "#033",
     "Name": "Nidorino",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -308,7 +380,9 @@ var allPokemon=[
     "Kdex": "#034",
     "Ndex": "#034",
     "Name": "Nidoking",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Ground"
   },
@@ -316,7 +390,9 @@ var allPokemon=[
     "Kdex": "#035",
     "Ndex": "#035",
     "Name": "Clefairy",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -324,7 +400,9 @@ var allPokemon=[
     "Kdex": "#036",
     "Ndex": "#036",
     "Name": "Clefable",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -332,7 +410,9 @@ var allPokemon=[
     "Kdex": "#037",
     "Ndex": "#037",
     "Name": "Vulpix",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -340,7 +420,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#037",
     "Name": "Vulpix",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -348,7 +430,9 @@ var allPokemon=[
     "Kdex": "#038",
     "Ndex": "#038",
     "Name": "Ninetales",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -356,7 +440,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#038",
     "Name": "Ninetales",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Fairy"
   },
@@ -364,6 +450,8 @@ var allPokemon=[
     "Kdex": "#039",
     "Ndex": "#039",
     "Name": "Jigglypuff",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": "Fairy"
@@ -372,6 +460,8 @@ var allPokemon=[
     "Kdex": "#040",
     "Ndex": "#040",
     "Name": "Wigglytuff",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": "Fairy"
@@ -380,7 +470,9 @@ var allPokemon=[
     "Kdex": "#041",
     "Ndex": "#041",
     "Name": "Zubat",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Flying"
   },
@@ -388,7 +480,9 @@ var allPokemon=[
     "Kdex": "#042",
     "Ndex": "#042",
     "Name": "Golbat",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Flying"
   },
@@ -396,7 +490,9 @@ var allPokemon=[
     "Kdex": "#043",
     "Ndex": "#043",
     "Name": "Oddish",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -404,7 +500,9 @@ var allPokemon=[
     "Kdex": "#044",
     "Ndex": "#044",
     "Name": "Gloom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -412,7 +510,9 @@ var allPokemon=[
     "Kdex": "#045",
     "Ndex": "#045",
     "Name": "Vileplume",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -420,7 +520,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#046",
     "Name": "Paras",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass"
   },
@@ -428,7 +530,9 @@ var allPokemon=[
     "Kdex": "#047",
     "Ndex": "#047",
     "Name": "Parasect",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass"
   },
@@ -436,7 +540,9 @@ var allPokemon=[
     "Kdex": "#048",
     "Ndex": "#048",
     "Name": "Venonat",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -444,7 +550,9 @@ var allPokemon=[
     "Kdex": "#049",
     "Ndex": "#049",
     "Name": "Venomoth",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -452,7 +560,9 @@ var allPokemon=[
     "Kdex": "#050",
     "Ndex": "#050",
     "Name": "Diglett",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -460,7 +570,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#050",
     "Name": "Diglett",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Steel"
   },
@@ -468,7 +580,9 @@ var allPokemon=[
     "Kdex": "#051",
     "Ndex": "#051",
     "Name": "Dugtrio",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -476,7 +590,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#051",
     "Name": "Dugtrio",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Steel"
   },
@@ -484,7 +600,9 @@ var allPokemon=[
     "Kdex": "#052",
     "Ndex": "#052",
     "Name": "Meowth",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -492,7 +610,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#052",
     "Name": "Meowth",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -500,7 +620,9 @@ var allPokemon=[
     "Kdex": "#053",
     "Ndex": "#053",
     "Name": "Persian",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -508,7 +630,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#053",
     "Name": "Persian",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -516,7 +640,9 @@ var allPokemon=[
     "Kdex": "#054",
     "Ndex": "#054",
     "Name": "Psyduck",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -524,7 +650,9 @@ var allPokemon=[
     "Kdex": "#055",
     "Ndex": "#055",
     "Name": "Golduck",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -532,7 +660,9 @@ var allPokemon=[
     "Kdex": "#056",
     "Ndex": "#056",
     "Name": "Mankey",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -540,7 +670,9 @@ var allPokemon=[
     "Kdex": "#057",
     "Ndex": "#057",
     "Name": "Primeape",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -548,7 +680,9 @@ var allPokemon=[
     "Kdex": "#058",
     "Ndex": "#058",
     "Name": "Growlithe",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -556,7 +690,9 @@ var allPokemon=[
     "Kdex": "#059",
     "Ndex": "#059",
     "Name": "Arcanine",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -564,7 +700,9 @@ var allPokemon=[
     "Kdex": "#060",
     "Ndex": "#060",
     "Name": "Poliwag",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -572,7 +710,9 @@ var allPokemon=[
     "Kdex": "#061",
     "Ndex": "#061",
     "Name": "Poliwhirl",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -580,7 +720,9 @@ var allPokemon=[
     "Kdex": "#062",
     "Ndex": "#062",
     "Name": "Poliwrath",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Fighting"
   },
@@ -588,6 +730,7 @@ var allPokemon=[
     "Kdex": "#063",
     "Ndex": "#063",
     "Name": "Abra",
+		"Sprite": "",
     "MS": "",
     "Type1": "Psychic",
     "Type2": ""
@@ -596,7 +739,9 @@ var allPokemon=[
     "Kdex": "#064",
     "Ndex": "#064",
     "Name": "Kadabra",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -604,7 +749,9 @@ var allPokemon=[
     "Kdex": "#065",
     "Ndex": "#065",
     "Name": "Alakazam",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -612,7 +759,9 @@ var allPokemon=[
     "Kdex": "#066",
     "Ndex": "#066",
     "Name": "Machop",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -620,7 +769,9 @@ var allPokemon=[
     "Kdex": "#067",
     "Ndex": "#067",
     "Name": "Machoke",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -628,7 +779,9 @@ var allPokemon=[
     "Kdex": "#068",
     "Ndex": "#068",
     "Name": "Machamp",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -636,6 +789,8 @@ var allPokemon=[
     "Kdex": "#069",
     "Ndex": "#069",
     "Name": "Bellsprout",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
@@ -644,6 +799,8 @@ var allPokemon=[
     "Kdex": "#070",
     "Ndex": "#070",
     "Name": "Weepinbell",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
@@ -652,6 +809,8 @@ var allPokemon=[
     "Kdex": "#071",
     "Ndex": "#071",
     "Name": "Victreebel",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
@@ -660,7 +819,9 @@ var allPokemon=[
     "Kdex": "#072",
     "Ndex": "#072",
     "Name": "Tentacool",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Poison"
   },
@@ -668,6 +829,8 @@ var allPokemon=[
     "Kdex": "#073",
     "Ndex": "#073",
     "Name": "Tentacruel",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Water",
     "Type2": "Poison"
@@ -676,7 +839,9 @@ var allPokemon=[
     "Kdex": "#074",
     "Ndex": "#074",
     "Name": "Geodude",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground"
   },
@@ -684,7 +849,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#074",
     "Name": "Geodude",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Electric"
   },
@@ -692,7 +859,9 @@ var allPokemon=[
     "Kdex": "#075",
     "Ndex": "#075",
     "Name": "Graveler",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground"
   },
@@ -700,7 +869,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#075",
     "Name": "Graveler",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Electric"
   },
@@ -708,7 +879,9 @@ var allPokemon=[
     "Kdex": "#076",
     "Ndex": "#076",
     "Name": "Golem",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground"
   },
@@ -716,7 +889,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#076",
     "Name": "Golem",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Electric"
   },
@@ -724,7 +899,9 @@ var allPokemon=[
     "Kdex": "#077",
     "Ndex": "#077",
     "Name": "Ponyta",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -732,7 +909,9 @@ var allPokemon=[
     "Kdex": "#078",
     "Ndex": "#078",
     "Name": "Rapidash",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -740,7 +919,9 @@ var allPokemon=[
     "Kdex": "#079",
     "Ndex": "#079",
     "Name": "Slowpoke",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic"
   },
@@ -748,7 +929,9 @@ var allPokemon=[
     "Kdex": "#080",
     "Ndex": "#080",
     "Name": "Slowbro",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic"
   },
@@ -756,7 +939,9 @@ var allPokemon=[
     "Kdex": "#081",
     "Ndex": "#081",
     "Name": "Magnemite",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Steel"
   },
@@ -764,7 +949,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#082",
     "Name": "Magneton",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Steel"
   },
@@ -772,6 +959,8 @@ var allPokemon=[
     "Kdex": "#083",
     "Ndex": "#083",
     "Name": "Farfetch'd",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
@@ -780,7 +969,9 @@ var allPokemon=[
     "Kdex": "#084",
     "Ndex": "#084",
     "Name": "Doduo",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -788,7 +979,9 @@ var allPokemon=[
     "Kdex": "#085",
     "Ndex": "#085",
     "Name": "Dodrio",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -796,6 +989,7 @@ var allPokemon=[
     "Kdex": "#086",
     "Ndex": "#086",
     "Name": "Seel",
+		"Sprite": "",
     "MS": "",
     "Type1": "Water",
     "Type2": ""
@@ -804,7 +998,9 @@ var allPokemon=[
     "Kdex": "#087",
     "Ndex": "#087",
     "Name": "Dewgong",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ice"
   },
@@ -812,7 +1008,9 @@ var allPokemon=[
     "Kdex": "#088",
     "Ndex": "#088",
     "Name": "Grimer",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -820,7 +1018,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#088",
     "Name": "Grimer",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark"
   },
@@ -828,6 +1028,7 @@ var allPokemon=[
     "Kdex": "#089",
     "Ndex": "#089",
     "Name": "Muk",
+		"Sprite": "",
     "MS": "",
     "Type1": "Poison",
     "Type2": ""
@@ -836,6 +1037,7 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#089",
     "Name": "Muk",
+		"Sprite": "",
     "MS": "",
     "Type1": "Poison",
     "Type2": "Dark"
@@ -844,7 +1046,9 @@ var allPokemon=[
     "Kdex": "#090",
     "Ndex": "#090",
     "Name": "Shellder",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -852,7 +1056,9 @@ var allPokemon=[
     "Kdex": "#091",
     "Ndex": "#091",
     "Name": "Cloyster",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ice"
   },
@@ -860,7 +1066,9 @@ var allPokemon=[
     "Kdex": "#092",
     "Ndex": "#092",
     "Name": "Gastly",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Poison"
   },
@@ -868,7 +1076,9 @@ var allPokemon=[
     "Kdex": "#093",
     "Ndex": "#093",
     "Name": "Haunter",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Poison"
   },
@@ -876,7 +1086,9 @@ var allPokemon=[
     "Kdex": "#094",
     "Ndex": "#094",
     "Name": "Gengar",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Poison"
   },
@@ -884,6 +1096,7 @@ var allPokemon=[
     "Kdex": "#095",
     "Ndex": "#095",
     "Name": "Onix",
+		"Sprite": "",
     "MS": "",
     "Type1": "Rock",
     "Type2": "Ground"
@@ -892,7 +1105,9 @@ var allPokemon=[
     "Kdex": "#096",
     "Ndex": "#096",
     "Name": "Drowzee",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -900,7 +1115,9 @@ var allPokemon=[
     "Kdex": "#097",
     "Ndex": "#097",
     "Name": "Hypno",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -908,7 +1125,9 @@ var allPokemon=[
     "Kdex": "#098",
     "Ndex": "#098",
     "Name": "Krabby",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -916,7 +1135,9 @@ var allPokemon=[
     "Kdex": "#099",
     "Ndex": "#099",
     "Name": "Kingler",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -924,7 +1145,9 @@ var allPokemon=[
     "Kdex": "#100",
     "Ndex": "#100",
     "Name": "Voltorb",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -932,7 +1155,9 @@ var allPokemon=[
     "Kdex": "#101",
     "Ndex": "#101",
     "Name": "Electrode",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -940,7 +1165,9 @@ var allPokemon=[
     "Kdex": "#102",
     "Ndex": "#102",
     "Name": "Exeggcute",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Psychic"
   },
@@ -948,7 +1175,9 @@ var allPokemon=[
     "Kdex": "#103",
     "Ndex": "#103",
     "Name": "Exeggutor",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Psychic"
   },
@@ -956,7 +1185,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#103",
     "Name": "Exeggutor",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Dragon"
   },
@@ -964,7 +1195,9 @@ var allPokemon=[
     "Kdex": "#104",
     "Ndex": "#104",
     "Name": "Cubone",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -972,7 +1205,9 @@ var allPokemon=[
     "Kdex": "#105",
     "Ndex": "#105",
     "Name": "Marowak",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -980,7 +1215,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#105",
     "Name": "Marowak",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Ghost"
   },
@@ -988,7 +1225,9 @@ var allPokemon=[
     "Kdex": "#106",
     "Ndex": "#106",
     "Name": "Hitmonlee",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -996,6 +1235,8 @@ var allPokemon=[
     "Kdex": "#107",
     "Ndex": "#107",
     "Name": "Hitmonchan",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fighting",
     "Type2": ""
@@ -1004,7 +1245,9 @@ var allPokemon=[
     "Kdex": "#108",
     "Ndex": "#108",
     "Name": "Lickitung",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1012,7 +1255,9 @@ var allPokemon=[
     "Kdex": "#109",
     "Ndex": "#109",
     "Name": "Koffing",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -1020,7 +1265,9 @@ var allPokemon=[
     "Kdex": "#110",
     "Ndex": "#110",
     "Name": "Weezing",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -1028,7 +1275,9 @@ var allPokemon=[
     "Kdex": "#111",
     "Ndex": "#111",
     "Name": "Rhyhorn",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Rock"
   },
@@ -1036,7 +1285,9 @@ var allPokemon=[
     "Kdex": "#112",
     "Ndex": "#112",
     "Name": "Rhydon",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Rock"
   },
@@ -1044,7 +1295,9 @@ var allPokemon=[
     "Kdex": "#113",
     "Ndex": "#113",
     "Name": "Chansey",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1052,7 +1305,9 @@ var allPokemon=[
     "Kdex": "#114",
     "Ndex": "#114",
     "Name": "Tangela",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1060,6 +1315,8 @@ var allPokemon=[
     "Kdex": "#115",
     "Ndex": "#115",
     "Name": "Kangaskhan",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": ""
@@ -1068,7 +1325,9 @@ var allPokemon=[
     "Kdex": "#116",
     "Ndex": "#116",
     "Name": "Horsea",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1076,7 +1335,9 @@ var allPokemon=[
     "Kdex": "#117",
     "Ndex": "#117",
     "Name": "Seadra",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1084,7 +1345,9 @@ var allPokemon=[
     "Kdex": "#118",
     "Ndex": "#118",
     "Name": "Goldeen",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1092,7 +1355,9 @@ var allPokemon=[
     "Kdex": "#119",
     "Ndex": "#119",
     "Name": "Seaking",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1100,7 +1365,9 @@ var allPokemon=[
     "Kdex": "#120",
     "Ndex": "#120",
     "Name": "Staryu",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1108,7 +1375,9 @@ var allPokemon=[
     "Kdex": "#121",
     "Ndex": "#121",
     "Name": "Starmie",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic"
   },
@@ -1116,7 +1385,9 @@ var allPokemon=[
     "Kdex": "#122",
     "Ndex": "#122",
     "Name": "Mr. Mime",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy"
   },
@@ -1124,7 +1395,9 @@ var allPokemon=[
     "Kdex": "#123",
     "Ndex": "#123",
     "Name": "Scyther",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -1132,6 +1405,7 @@ var allPokemon=[
     "Kdex": "#124",
     "Ndex": "#124",
     "Name": "Jynx",
+		"Sprite": "",
     "MS": "",
     "Type1": "Ice",
     "Type2": "Psychic"
@@ -1140,6 +1414,8 @@ var allPokemon=[
     "Kdex": "#125",
     "Ndex": "#125",
     "Name": "Electabuzz",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Electric",
     "Type2": ""
@@ -1148,7 +1424,9 @@ var allPokemon=[
     "Kdex": "#126",
     "Ndex": "#126",
     "Name": "Magmar",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -1156,7 +1434,9 @@ var allPokemon=[
     "Kdex": "#127",
     "Ndex": "#127",
     "Name": "Pinsir",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -1164,7 +1444,9 @@ var allPokemon=[
     "Kdex": "#128",
     "Ndex": "#128",
     "Name": "Tauros",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1172,7 +1454,9 @@ var allPokemon=[
     "Kdex": "#129",
     "Ndex": "#129",
     "Name": "Magikarp",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1180,7 +1464,9 @@ var allPokemon=[
     "Kdex": "#130",
     "Ndex": "#130",
     "Name": "Gyarados",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -1188,7 +1474,9 @@ var allPokemon=[
     "Kdex": "#131",
     "Ndex": "#131",
     "Name": "Lapras",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ice"
   },
@@ -1196,7 +1484,9 @@ var allPokemon=[
     "Kdex": "#132",
     "Ndex": "#132",
     "Name": "Ditto",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1204,7 +1494,9 @@ var allPokemon=[
     "Kdex": "#133",
     "Ndex": "#133",
     "Name": "Eevee",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1212,7 +1504,9 @@ var allPokemon=[
     "Kdex": "#134",
     "Ndex": "#134",
     "Name": "Vaporeon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1220,7 +1514,9 @@ var allPokemon=[
     "Kdex": "#135",
     "Ndex": "#135",
     "Name": "Jolteon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -1228,7 +1524,9 @@ var allPokemon=[
     "Kdex": "#136",
     "Ndex": "#136",
     "Name": "Flareon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -1236,7 +1534,9 @@ var allPokemon=[
     "Kdex": "#137",
     "Ndex": "#137",
     "Name": "Porygon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1244,7 +1544,9 @@ var allPokemon=[
     "Kdex": "#138",
     "Ndex": "#138",
     "Name": "Omanyte",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Water"
   },
@@ -1252,7 +1554,9 @@ var allPokemon=[
     "Kdex": "#139",
     "Ndex": "#139",
     "Name": "Omastar",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Water"
   },
@@ -1260,7 +1564,9 @@ var allPokemon=[
     "Kdex": "#140",
     "Ndex": "#140",
     "Name": "Kabuto",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Water"
   },
@@ -1268,7 +1574,9 @@ var allPokemon=[
     "Kdex": "#141",
     "Ndex": "#141",
     "Name": "Kabutops",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Water"
   },
@@ -1276,6 +1584,8 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#142",
     "Name": "Aerodactyl",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Rock",
     "Type2": "Flying"
@@ -1284,7 +1594,9 @@ var allPokemon=[
     "Kdex": "#143",
     "Ndex": "#143",
     "Name": "Snorlax",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1292,7 +1604,9 @@ var allPokemon=[
     "Kdex": "#144",
     "Ndex": "#144",
     "Name": "Articuno",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Flying"
   },
@@ -1300,7 +1614,9 @@ var allPokemon=[
     "Kdex": "#145",
     "Ndex": "#145",
     "Name": "Zapdos",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying"
   },
@@ -1308,7 +1624,9 @@ var allPokemon=[
     "Kdex": "#146",
     "Ndex": "#146",
     "Name": "Moltres",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying"
   },
@@ -1316,7 +1634,9 @@ var allPokemon=[
     "Kdex": "#147",
     "Ndex": "#147",
     "Name": "Dratini",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -1324,7 +1644,9 @@ var allPokemon=[
     "Kdex": "#148",
     "Ndex": "#148",
     "Name": "Dragonair",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -1332,7 +1654,9 @@ var allPokemon=[
     "Kdex": "#149",
     "Ndex": "#149",
     "Name": "Dragonite",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying"
   },
@@ -1340,7 +1664,9 @@ var allPokemon=[
     "Kdex": "#150",
     "Ndex": "#150",
     "Name": "Mewtwo",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -1348,6 +1674,7 @@ var allPokemon=[
     "Kdex": "#151",
     "Ndex": "#151",
     "Name": "Mew",
+		"Sprite": "",
     "MS": "",
     "Type1": "Psychic",
     "Type2": ""
@@ -1356,7 +1683,9 @@ var allPokemon=[
     "Kdex": "#001",
     "Ndex": "#152",
     "Name": "Chikorita",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1364,7 +1693,9 @@ var allPokemon=[
     "Kdex": "#002",
     "Ndex": "#153",
     "Name": "Bayleef",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1372,7 +1703,9 @@ var allPokemon=[
     "Kdex": "#003",
     "Ndex": "#154",
     "Name": "Meganium",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1380,7 +1713,9 @@ var allPokemon=[
     "Kdex": "#004",
     "Ndex": "#155",
     "Name": "Cyndaquil",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -1388,7 +1723,9 @@ var allPokemon=[
     "Kdex": "#005",
     "Ndex": "#156",
     "Name": "Quilava",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -1396,6 +1733,8 @@ var allPokemon=[
     "Kdex": "#006",
     "Ndex": "#157",
     "Name": "Typhlosion",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": ""
@@ -1404,7 +1743,9 @@ var allPokemon=[
     "Kdex": "#007",
     "Ndex": "#158",
     "Name": "Totodile",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1412,7 +1753,9 @@ var allPokemon=[
     "Kdex": "#008",
     "Ndex": "#159",
     "Name": "Croconaw",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1420,6 +1763,8 @@ var allPokemon=[
     "Kdex": "#009",
     "Ndex": "#160",
     "Name": "Feraligatr",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Water",
     "Type2": ""
@@ -1428,7 +1773,9 @@ var allPokemon=[
     "Kdex": "#019",
     "Ndex": "#161",
     "Name": "Sentret",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1436,7 +1783,9 @@ var allPokemon=[
     "Kdex": "#020",
     "Ndex": "#162",
     "Name": "Furret",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1444,7 +1793,9 @@ var allPokemon=[
     "Kdex": "#015",
     "Ndex": "#163",
     "Name": "Hoothoot",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -1452,7 +1803,9 @@ var allPokemon=[
     "Kdex": "#016",
     "Ndex": "#164",
     "Name": "Noctowl",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -1460,7 +1813,9 @@ var allPokemon=[
     "Kdex": "#030",
     "Ndex": "#165",
     "Name": "Ledyba",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -1468,7 +1823,9 @@ var allPokemon=[
     "Kdex": "#031",
     "Ndex": "#166",
     "Name": "Ledian",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -1476,7 +1833,9 @@ var allPokemon=[
     "Kdex": "#032",
     "Ndex": "#167",
     "Name": "Spinarak",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -1484,7 +1843,9 @@ var allPokemon=[
     "Kdex": "#033",
     "Ndex": "#168",
     "Name": "Ariados",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -1492,7 +1853,9 @@ var allPokemon=[
     "Kdex": "#039",
     "Ndex": "#169",
     "Name": "Crobat",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Flying"
   },
@@ -1500,7 +1863,9 @@ var allPokemon=[
     "Kdex": "#176",
     "Ndex": "#170",
     "Name": "Chinchou",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Electric"
   },
@@ -1508,7 +1873,9 @@ var allPokemon=[
     "Kdex": "#177",
     "Ndex": "#171",
     "Name": "Lanturn",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Electric"
   },
@@ -1516,7 +1883,9 @@ var allPokemon=[
     "Kdex": "#021",
     "Ndex": "#172",
     "Name": "Pichu",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -1524,7 +1893,9 @@ var allPokemon=[
     "Kdex": "#040",
     "Ndex": "#173",
     "Name": "Cleffa",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -1532,7 +1903,9 @@ var allPokemon=[
     "Kdex": "#044",
     "Ndex": "#174",
     "Name": "Igglybuff",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Fairy"
   },
@@ -1540,7 +1913,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#175",
     "Name": "Togepi",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -1548,7 +1923,9 @@ var allPokemon=[
     "Kdex": "#047",
     "Ndex": "#176",
     "Name": "Togetic",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": "Flying"
   },
@@ -1556,6 +1933,7 @@ var allPokemon=[
     "Kdex": "#161",
     "Ndex": "#177",
     "Name": "Natu",
+		"Sprite": "",
     "MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
@@ -1564,6 +1942,7 @@ var allPokemon=[
     "Kdex": "#162",
     "Ndex": "#178",
     "Name": "Xatu",
+		"Sprite": "",
     "MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
@@ -1572,7 +1951,9 @@ var allPokemon=[
     "Kdex": "#053",
     "Ndex": "#179",
     "Name": "Mareep",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -1580,7 +1961,9 @@ var allPokemon=[
     "Kdex": "#054",
     "Ndex": "#180",
     "Name": "Flaaffy",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -1588,7 +1971,9 @@ var allPokemon=[
     "Kdex": "#055",
     "Ndex": "#181",
     "Name": "Ampharos",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -1596,7 +1981,9 @@ var allPokemon=[
     "Kdex": "#086",
     "Ndex": "#182",
     "Name": "Bellossom",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1604,7 +1991,9 @@ var allPokemon=[
     "Kdex": "#132",
     "Ndex": "#183",
     "Name": "Marill",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy"
   },
@@ -1612,7 +2001,9 @@ var allPokemon=[
     "Kdex": "#133",
     "Ndex": "#184",
     "Name": "Azumarill",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy"
   },
@@ -1620,7 +2011,9 @@ var allPokemon=[
     "Kdex": "#107",
     "Ndex": "#185",
     "Name": "Sudowoodo",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -1628,7 +2021,9 @@ var allPokemon=[
     "Kdex": "#075",
     "Ndex": "#186",
     "Name": "Politoed",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1636,7 +2031,9 @@ var allPokemon=[
     "Kdex": "#067",
     "Ndex": "#187",
     "Name": "Hoppip",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -1644,7 +2041,9 @@ var allPokemon=[
     "Kdex": "#068",
     "Ndex": "#188",
     "Name": "Skiploom",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -1652,7 +2051,9 @@ var allPokemon=[
     "Kdex": "#069",
     "Ndex": "#189",
     "Name": "Jumpluff",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -1660,7 +2061,9 @@ var allPokemon=[
     "Kdex": "#123",
     "Ndex": "#190",
     "Name": "Aipom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1668,7 +2071,9 @@ var allPokemon=[
     "Kdex": "#103",
     "Ndex": "#191",
     "Name": "Sunkern",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1676,7 +2081,9 @@ var allPokemon=[
     "Kdex": "#104",
     "Ndex": "#192",
     "Name": "Sunflora",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -1684,7 +2091,9 @@ var allPokemon=[
     "Kdex": "#101",
     "Ndex": "#193",
     "Name": "Yanma",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -1692,7 +2101,9 @@ var allPokemon=[
     "Kdex": "#056",
     "Ndex": "#194",
     "Name": "Wooper",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -1700,7 +2111,9 @@ var allPokemon=[
     "Kdex": "#057",
     "Ndex": "#195",
     "Name": "Quagsire",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -1708,7 +2121,9 @@ var allPokemon=[
     "Kdex": "#188",
     "Ndex": "#196",
     "Name": "Espeon",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -1716,7 +2131,9 @@ var allPokemon=[
     "Kdex": "#189",
     "Ndex": "#197",
     "Name": "Umbreon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -1724,7 +2141,9 @@ var allPokemon=[
     "Kdex": "#213",
     "Ndex": "#198",
     "Name": "Murkrow",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying"
   },
@@ -1732,7 +2151,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#199",
     "Name": "Slowking",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic"
   },
@@ -1740,6 +2161,8 @@ var allPokemon=[
     "Kdex": "#219",
     "Ndex": "#200",
     "Name": "Misdreavus",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Ghost",
     "Type2": ""
@@ -1748,7 +2171,9 @@ var allPokemon=[
     "Kdex": "#061",
     "Ndex": "#201",
     "Name": "Unown",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -1756,7 +2181,9 @@ var allPokemon=[
     "Kdex": "#108",
     "Ndex": "#202",
     "Name": "Wobbuffet",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -1764,7 +2191,9 @@ var allPokemon=[
     "Kdex": "#149",
     "Ndex": "#203",
     "Name": "Girafarig",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Psychic"
   },
@@ -1772,7 +2201,9 @@ var allPokemon=[
     "Kdex": "#093",
     "Ndex": "#204",
     "Name": "Pineco",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -1780,6 +2211,8 @@ var allPokemon=[
     "Kdex": "#094",
     "Ndex": "#205",
     "Name": "Forretress",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": "Steel"
@@ -1788,7 +2221,9 @@ var allPokemon=[
     "Kdex": "#052",
     "Ndex": "#206",
     "Name": "Dunsparce",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1796,7 +2231,9 @@ var allPokemon=[
     "Kdex": "#193",
     "Ndex": "#207",
     "Name": "Gligar",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Flying"
   },
@@ -1804,7 +2241,9 @@ var allPokemon=[
     "Kdex": "#063",
     "Ndex": "#208",
     "Name": "Steelix",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Ground"
   },
@@ -1812,7 +2251,9 @@ var allPokemon=[
     "Kdex": "#125",
     "Ndex": "#209",
     "Name": "Snubbull",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -1820,7 +2261,9 @@ var allPokemon=[
     "Kdex": "#126",
     "Ndex": "#210",
     "Name": "Granbull",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -1828,7 +2271,9 @@ var allPokemon=[
     "Kdex": "#163",
     "Ndex": "#211",
     "Name": "Qwilfish",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Poison"
   },
@@ -1836,7 +2281,9 @@ var allPokemon=[
     "Kdex": "#112",
     "Ndex": "#212",
     "Name": "Scizor",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel"
   },
@@ -1844,7 +2291,9 @@ var allPokemon=[
     "Kdex": "#168",
     "Ndex": "#213",
     "Name": "Shuckle",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Rock"
   },
@@ -1852,7 +2301,9 @@ var allPokemon=[
     "Kdex": "#114",
     "Ndex": "#214",
     "Name": "Heracross",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fighting"
   },
@@ -1860,7 +2311,9 @@ var allPokemon=[
     "Kdex": "#218",
     "Ndex": "#215",
     "Name": "Sneasel",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Ice"
   },
@@ -1868,7 +2321,9 @@ var allPokemon=[
     "Kdex": "#198",
     "Ndex": "#216",
     "Name": "Teddiursa",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1876,7 +2331,9 @@ var allPokemon=[
     "Kdex": "#199",
     "Ndex": "#217",
     "Name": "Ursaring",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -1884,7 +2341,9 @@ var allPokemon=[
     "Kdex": "#216",
     "Ndex": "#218",
     "Name": "Slugma",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -1892,7 +2351,9 @@ var allPokemon=[
     "Kdex": "#217",
     "Ndex": "#219",
     "Name": "Magcargo",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Rock"
   },
@@ -1900,7 +2361,9 @@ var allPokemon=[
     "Kdex": "#195",
     "Ndex": "#220",
     "Name": "Swinub",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Ground"
   },
@@ -1908,7 +2371,9 @@ var allPokemon=[
     "Kdex": "#196",
     "Ndex": "#221",
     "Name": "Piloswine",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Ground"
   },
@@ -1916,7 +2381,9 @@ var allPokemon=[
     "Kdex": "#173",
     "Ndex": "#222",
     "Name": "Corsola",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Rock"
   },
@@ -1924,7 +2391,9 @@ var allPokemon=[
     "Kdex": "#174",
     "Ndex": "#223",
     "Name": "Remoraid",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1932,7 +2401,9 @@ var allPokemon=[
     "Kdex": "#175",
     "Ndex": "#224",
     "Name": "Octillery",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -1940,7 +2411,9 @@ var allPokemon=[
     "Kdex": "#194",
     "Ndex": "#225",
     "Name": "Delibird",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Flying"
   },
@@ -1948,7 +2421,9 @@ var allPokemon=[
     "Kdex": "#202",
     "Ndex": "#226",
     "Name": "Mantine",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -1956,7 +2431,9 @@ var allPokemon=[
     "Kdex": "#203",
     "Ndex": "#227",
     "Name": "Skarmory",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Flying"
   },
@@ -1964,7 +2441,9 @@ var allPokemon=[
     "Kdex": "#214",
     "Ndex": "#228",
     "Name": "Houndour",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Fire"
   },
@@ -1972,7 +2451,9 @@ var allPokemon=[
     "Kdex": "#215",
     "Ndex": "#229",
     "Name": "Houndoom",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Fire"
   },
@@ -1980,7 +2461,9 @@ var allPokemon=[
     "Kdex": "#192",
     "Ndex": "#230",
     "Name": "Kingdra",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Dragon"
   },
@@ -1988,7 +2471,9 @@ var allPokemon=[
     "Kdex": "#200",
     "Ndex": "#231",
     "Name": "Phanpy",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -1996,7 +2481,9 @@ var allPokemon=[
     "Kdex": "#201",
     "Ndex": "#232",
     "Name": "Donphan",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -2004,7 +2491,9 @@ var allPokemon=[
     "Kdex": "#221",
     "Ndex": "#233",
     "Name": "Porygon2",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2012,7 +2501,9 @@ var allPokemon=[
     "Kdex": "#131",
     "Ndex": "#234",
     "Name": "Stantler",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2020,7 +2511,9 @@ var allPokemon=[
     "Kdex": "#159",
     "Ndex": "#235",
     "Name": "Smeargle",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2028,7 +2521,9 @@ var allPokemon=[
     "Kdex": "#145",
     "Ndex": "#236",
     "Name": "Tyrogue",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -2036,7 +2531,9 @@ var allPokemon=[
     "Kdex": "#148",
     "Ndex": "#237",
     "Name": "Hitmontop",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -2044,7 +2541,9 @@ var allPokemon=[
     "Kdex": "#154",
     "Ndex": "#238",
     "Name": "Smoochum",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Psychic"
   },
@@ -2052,7 +2551,9 @@ var allPokemon=[
     "Kdex": "#156",
     "Ndex": "#239",
     "Name": "Elekid",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -2060,7 +2561,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#240",
     "Name": "Magby",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -2068,7 +2571,9 @@ var allPokemon=[
     "Kdex": "#151",
     "Ndex": "#241",
     "Name": "Miltank",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2076,7 +2581,9 @@ var allPokemon=[
     "Kdex": "#223",
     "Ndex": "#242",
     "Name": "Blissey",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2084,7 +2591,9 @@ var allPokemon=[
     "Kdex": "#243",
     "Ndex": "#243",
     "Name": "Raikou",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -2092,7 +2601,9 @@ var allPokemon=[
     "Kdex": "#244",
     "Ndex": "#244",
     "Name": "Entei",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -2100,7 +2611,9 @@ var allPokemon=[
     "Kdex": "#245",
     "Ndex": "#245",
     "Name": "Suicune",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2108,7 +2621,9 @@ var allPokemon=[
     "Kdex": "#249",
     "Ndex": "#246",
     "Name": "Larvitar",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground"
   },
@@ -2116,7 +2631,9 @@ var allPokemon=[
     "Kdex": "#250",
     "Ndex": "#247",
     "Name": "Pupitar",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground"
   },
@@ -2124,7 +2641,9 @@ var allPokemon=[
     "Kdex": "#251",
     "Ndex": "#248",
     "Name": "Tyranitar",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Dark"
   },
@@ -2132,7 +2651,9 @@ var allPokemon=[
     "Kdex": "#252",
     "Ndex": "#249",
     "Name": "Lugia",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
   },
@@ -2140,7 +2661,9 @@ var allPokemon=[
     "Kdex": "#253",
     "Ndex": "#250",
     "Name": "Ho-Oh",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying"
   },
@@ -2148,7 +2671,9 @@ var allPokemon=[
     "Kdex": "#256",
     "Ndex": "#251",
     "Name": "Celebi",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Grass"
   },
@@ -2156,7 +2681,9 @@ var allPokemon=[
     "Kdex": "#001",
     "Ndex": "#252",
     "Name": "Treecko",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -2164,7 +2691,9 @@ var allPokemon=[
     "Kdex": "#002",
     "Ndex": "#253",
     "Name": "Grovyle",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -2172,7 +2701,9 @@ var allPokemon=[
     "Kdex": "#003",
     "Ndex": "#254",
     "Name": "Sceptile",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -2180,7 +2711,9 @@ var allPokemon=[
     "Kdex": "#004",
     "Ndex": "#255",
     "Name": "Torchic",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -2188,7 +2721,9 @@ var allPokemon=[
     "Kdex": "#005",
     "Ndex": "#256",
     "Name": "Combusken",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting"
   },
@@ -2196,7 +2731,9 @@ var allPokemon=[
     "Kdex": "#006",
     "Ndex": "#257",
     "Name": "Blaziken",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting"
   },
@@ -2204,7 +2741,9 @@ var allPokemon=[
     "Kdex": "#007",
     "Ndex": "#258",
     "Name": "Mudkip",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2212,7 +2751,9 @@ var allPokemon=[
     "Kdex": "#008",
     "Ndex": "#259",
     "Name": "Marshtomp",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -2220,7 +2761,9 @@ var allPokemon=[
     "Kdex": "#009",
     "Ndex": "#260",
     "Name": "Swampert",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -2228,7 +2771,9 @@ var allPokemon=[
     "Kdex": "#010",
     "Ndex": "#261",
     "Name": "Poochyena",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -2236,7 +2781,9 @@ var allPokemon=[
     "Kdex": "#011",
     "Ndex": "#262",
     "Name": "Mightyena",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -2244,7 +2791,9 @@ var allPokemon=[
     "Kdex": "#012",
     "Ndex": "#263",
     "Name": "Zigzagoon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2252,7 +2801,9 @@ var allPokemon=[
     "Kdex": "#013",
     "Ndex": "#264",
     "Name": "Linoone",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2260,7 +2811,9 @@ var allPokemon=[
     "Kdex": "#014",
     "Ndex": "#265",
     "Name": "Wurmple",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -2268,7 +2821,9 @@ var allPokemon=[
     "Kdex": "#015",
     "Ndex": "#266",
     "Name": "Silcoon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -2276,7 +2831,9 @@ var allPokemon=[
     "Kdex": "#016",
     "Ndex": "#267",
     "Name": "Beautifly",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -2284,7 +2841,9 @@ var allPokemon=[
     "Kdex": "#017",
     "Ndex": "#268",
     "Name": "Cascoon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -2292,7 +2851,9 @@ var allPokemon=[
     "Kdex": "#018",
     "Ndex": "#269",
     "Name": "Dustox",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -2300,7 +2861,9 @@ var allPokemon=[
     "Kdex": "#019",
     "Ndex": "#270",
     "Name": "Lotad",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Water",
     "Type2": "Grass"
   },
@@ -2308,7 +2871,9 @@ var allPokemon=[
     "Kdex": "#020",
     "Ndex": "#271",
     "Name": "Lombre",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Grass"
   },
@@ -2316,7 +2881,9 @@ var allPokemon=[
     "Kdex": "#021",
     "Ndex": "#272",
     "Name": "Ludicolo",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Grass"
   },
@@ -2324,7 +2891,9 @@ var allPokemon=[
     "Kdex": "#022",
     "Ndex": "#273",
     "Name": "Seedot",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -2332,7 +2901,9 @@ var allPokemon=[
     "Kdex": "#023",
     "Ndex": "#274",
     "Name": "Nuzleaf",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Dark"
   },
@@ -2340,7 +2911,9 @@ var allPokemon=[
     "Kdex": "#024",
     "Ndex": "#275",
     "Name": "Shiftry",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Dark"
   },
@@ -2348,7 +2921,9 @@ var allPokemon=[
     "Kdex": "#025",
     "Ndex": "#276",
     "Name": "Taillow",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -2356,7 +2931,9 @@ var allPokemon=[
     "Kdex": "#026",
     "Ndex": "#277",
     "Name": "Swellow",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -2364,7 +2941,9 @@ var allPokemon=[
     "Kdex": "#027",
     "Ndex": "#278",
     "Name": "Wingull",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -2372,7 +2951,9 @@ var allPokemon=[
     "Kdex": "#028",
     "Ndex": "#279",
     "Name": "Pelipper",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -2380,7 +2961,9 @@ var allPokemon=[
     "Kdex": "#029",
     "Ndex": "#280",
     "Name": "Ralts",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy"
   },
@@ -2388,7 +2971,9 @@ var allPokemon=[
     "Kdex": "#030",
     "Ndex": "#281",
     "Name": "Kirlia",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy"
   },
@@ -2396,7 +2981,9 @@ var allPokemon=[
     "Kdex": "#031",
     "Ndex": "#282",
     "Name": "Gardevoir",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy"
   },
@@ -2404,7 +2991,9 @@ var allPokemon=[
     "Kdex": "#032",
     "Ndex": "#283",
     "Name": "Surskit",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Water"
   },
@@ -2412,6 +3001,8 @@ var allPokemon=[
     "Kdex": "#033",
     "Ndex": "#284",
     "Name": "Masquerain",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
@@ -2420,7 +3011,9 @@ var allPokemon=[
     "Kdex": "#034",
     "Ndex": "#285",
     "Name": "Shroomish",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -2428,7 +3021,9 @@ var allPokemon=[
     "Kdex": "#035",
     "Ndex": "#286",
     "Name": "Breloom",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Fighting"
   },
@@ -2436,7 +3031,9 @@ var allPokemon=[
     "Kdex": "#036",
     "Ndex": "#287",
     "Name": "Slakoth",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2444,7 +3041,9 @@ var allPokemon=[
     "Kdex": "#037",
     "Ndex": "#288",
     "Name": "Vigoroth",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2452,7 +3051,9 @@ var allPokemon=[
     "Kdex": "#038",
     "Ndex": "#289",
     "Name": "Slaking",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2460,7 +3061,9 @@ var allPokemon=[
     "Kdex": "#042",
     "Ndex": "#290",
     "Name": "Nincada",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Ground"
   },
@@ -2468,7 +3071,9 @@ var allPokemon=[
     "Kdex": "#043",
     "Ndex": "#291",
     "Name": "Ninjask",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -2476,7 +3081,9 @@ var allPokemon=[
     "Kdex": "#044",
     "Ndex": "#292",
     "Name": "Shedinja",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Ghost"
   },
@@ -2484,7 +3091,9 @@ var allPokemon=[
     "Kdex": "#045",
     "Ndex": "#293",
     "Name": "Whismur",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2492,7 +3101,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#294",
     "Name": "Loudred",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2500,7 +3111,9 @@ var allPokemon=[
     "Kdex": "#047",
     "Ndex": "#295",
     "Name": "Exploud",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2508,7 +3121,9 @@ var allPokemon=[
     "Kdex": "#048",
     "Ndex": "#296",
     "Name": "Makuhita",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -2516,7 +3131,9 @@ var allPokemon=[
     "Kdex": "#049",
     "Ndex": "#297",
     "Name": "Hariyama",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -2524,7 +3141,9 @@ var allPokemon=[
     "Kdex": "#054",
     "Ndex": "#298",
     "Name": "Azurill",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Fairy"
   },
@@ -2532,7 +3151,9 @@ var allPokemon=[
     "Kdex": "#060",
     "Ndex": "#299",
     "Name": "Nosepass",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -2540,7 +3161,9 @@ var allPokemon=[
     "Kdex": "#061",
     "Ndex": "#300",
     "Name": "Skitty",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2548,7 +3171,9 @@ var allPokemon=[
     "Kdex": "#062",
     "Ndex": "#301",
     "Name": "Delcatty",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2556,7 +3181,9 @@ var allPokemon=[
     "Kdex": "#068",
     "Ndex": "#302",
     "Name": "Sableye",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Ghost"
   },
@@ -2564,7 +3191,9 @@ var allPokemon=[
     "Kdex": "#069",
     "Ndex": "#303",
     "Name": "Mawile",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Fairy"
   },
@@ -2572,6 +3201,7 @@ var allPokemon=[
     "Kdex": "#070",
     "Ndex": "#304",
     "Name": "Aron",
+		"Sprite": "",
     "MS": "",
     "Type1": "Steel",
     "Type2": "Rock"
@@ -2580,7 +3210,9 @@ var allPokemon=[
     "Kdex": "#071",
     "Ndex": "#305",
     "Name": "Lairon",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Rock"
   },
@@ -2588,7 +3220,9 @@ var allPokemon=[
     "Kdex": "#072",
     "Ndex": "#306",
     "Name": "Aggron",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Rock"
   },
@@ -2596,7 +3230,9 @@ var allPokemon=[
     "Kdex": "#076",
     "Ndex": "#307",
     "Name": "Meditite",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": "Psychic"
   },
@@ -2604,7 +3240,9 @@ var allPokemon=[
     "Kdex": "#077",
     "Ndex": "#308",
     "Name": "Medicham",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": "Psychic"
   },
@@ -2612,7 +3250,9 @@ var allPokemon=[
     "Kdex": "#078",
     "Ndex": "#309",
     "Name": "Electrike",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -2620,7 +3260,9 @@ var allPokemon=[
     "Kdex": "#079",
     "Ndex": "#310",
     "Name": "Manectric",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -2628,7 +3270,9 @@ var allPokemon=[
     "Kdex": "#080",
     "Ndex": "#311",
     "Name": "Plusle",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -2636,7 +3280,9 @@ var allPokemon=[
     "Kdex": "#081",
     "Ndex": "#312",
     "Name": "Minun",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -2644,7 +3290,9 @@ var allPokemon=[
     "Kdex": "#086",
     "Ndex": "#313",
     "Name": "Volbeat",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -2652,7 +3300,9 @@ var allPokemon=[
     "Kdex": "#087",
     "Ndex": "#314",
     "Name": "Illumise",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -2660,7 +3310,9 @@ var allPokemon=[
     "Kdex": "#094",
     "Ndex": "#315",
     "Name": "Roselia",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -2668,7 +3320,9 @@ var allPokemon=[
     "Kdex": "#095",
     "Ndex": "#316",
     "Name": "Gulpin",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -2676,7 +3330,9 @@ var allPokemon=[
     "Kdex": "#096",
     "Ndex": "#317",
     "Name": "Swalot",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -2684,7 +3340,9 @@ var allPokemon=[
     "Kdex": "#097",
     "Ndex": "#318",
     "Name": "Carvanha",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Dark"
   },
@@ -2692,7 +3350,9 @@ var allPokemon=[
     "Kdex": "#098",
     "Ndex": "#319",
     "Name": "Sharpedo",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Dark"
   },
@@ -2700,7 +3360,9 @@ var allPokemon=[
     "Kdex": "#099",
     "Ndex": "#320",
     "Name": "Wailmer",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2708,7 +3370,9 @@ var allPokemon=[
     "Kdex": "#100",
     "Ndex": "#321",
     "Name": "Wailord",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2716,7 +3380,9 @@ var allPokemon=[
     "Kdex": "#101",
     "Ndex": "#322",
     "Name": "Numel",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Ground"
   },
@@ -2724,7 +3390,9 @@ var allPokemon=[
     "Kdex": "#102",
     "Ndex": "#323",
     "Name": "Camerupt",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Ground"
   },
@@ -2732,7 +3400,9 @@ var allPokemon=[
     "Kdex": "#105",
     "Ndex": "#324",
     "Name": "Torkoal",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -2740,7 +3410,9 @@ var allPokemon=[
     "Kdex": "#110",
     "Ndex": "#325",
     "Name": "Spoink",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -2748,7 +3420,9 @@ var allPokemon=[
     "Kdex": "#111",
     "Ndex": "#326",
     "Name": "Grumpig",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -2756,7 +3430,9 @@ var allPokemon=[
     "Kdex": "#114",
     "Ndex": "#327",
     "Name": "Spinda",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2764,7 +3440,9 @@ var allPokemon=[
     "Kdex": "#116",
     "Ndex": "#328",
     "Name": "Trapinch",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -2772,7 +3450,9 @@ var allPokemon=[
     "Kdex": "#117",
     "Ndex": "#329",
     "Name": "Vibrava",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Dragon"
   },
@@ -2780,7 +3460,9 @@ var allPokemon=[
     "Kdex": "#118",
     "Ndex": "#330",
     "Name": "Flygon",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Dragon"
   },
@@ -2788,7 +3470,9 @@ var allPokemon=[
     "Kdex": "#119",
     "Ndex": "#331",
     "Name": "Cacnea",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -2796,7 +3480,9 @@ var allPokemon=[
     "Kdex": "#120",
     "Ndex": "#332",
     "Name": "Cacturne",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Dark"
   },
@@ -2804,7 +3490,9 @@ var allPokemon=[
     "Kdex": "#121",
     "Ndex": "#333",
     "Name": "Swablu",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -2812,7 +3500,9 @@ var allPokemon=[
     "Kdex": "#122",
     "Ndex": "#334",
     "Name": "Altaria",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying"
   },
@@ -2820,7 +3510,9 @@ var allPokemon=[
     "Kdex": "#123",
     "Ndex": "#335",
     "Name": "Zangoose",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2828,7 +3520,9 @@ var allPokemon=[
     "Kdex": "#124",
     "Ndex": "#336",
     "Name": "Seviper",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -2836,7 +3530,9 @@ var allPokemon=[
     "Kdex": "#125",
     "Ndex": "#337",
     "Name": "Lunatone",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Psychic"
   },
@@ -2844,7 +3540,9 @@ var allPokemon=[
     "Kdex": "#126",
     "Ndex": "#338",
     "Name": "Solrock",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Psychic"
   },
@@ -2852,7 +3550,9 @@ var allPokemon=[
     "Kdex": "#127",
     "Ndex": "#339",
     "Name": "Barboach",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -2860,7 +3560,9 @@ var allPokemon=[
     "Kdex": "#128",
     "Ndex": "#340",
     "Name": "Whiscash",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -2868,7 +3570,9 @@ var allPokemon=[
     "Kdex": "#129",
     "Ndex": "#341",
     "Name": "Corphish",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2876,7 +3580,9 @@ var allPokemon=[
     "Kdex": "#130",
     "Ndex": "#342",
     "Name": "Crawdaunt",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Dark"
   },
@@ -2884,7 +3590,9 @@ var allPokemon=[
     "Kdex": "#131",
     "Ndex": "#343",
     "Name": "Baltoy",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Psychic"
   },
@@ -2892,7 +3600,9 @@ var allPokemon=[
     "Kdex": "#132",
     "Ndex": "#344",
     "Name": "Claydol",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Psychic"
   },
@@ -2900,7 +3610,9 @@ var allPokemon=[
     "Kdex": "#133",
     "Ndex": "#345",
     "Name": "Lileep",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Grass"
   },
@@ -2908,7 +3620,9 @@ var allPokemon=[
     "Kdex": "#134",
     "Ndex": "#346",
     "Name": "Cradily",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Grass"
   },
@@ -2916,7 +3630,9 @@ var allPokemon=[
     "Kdex": "#135",
     "Ndex": "#347",
     "Name": "Anorith",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Bug"
   },
@@ -2924,7 +3640,9 @@ var allPokemon=[
     "Kdex": "#136",
     "Ndex": "#348",
     "Name": "Armaldo",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Bug"
   },
@@ -2932,7 +3650,9 @@ var allPokemon=[
     "Kdex": "#140",
     "Ndex": "#349",
     "Name": "Feebas",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2940,7 +3660,9 @@ var allPokemon=[
     "Kdex": "#141",
     "Ndex": "#350",
     "Name": "Milotic",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2948,7 +3670,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#351",
     "Name": "Castform",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2956,7 +3680,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#351",
     "Name": "Castform",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -2964,7 +3690,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#351",
     "Name": "Castform",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -2972,7 +3700,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#351",
     "Name": "Castform",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -2980,7 +3710,9 @@ var allPokemon=[
     "Kdex": "#145",
     "Ndex": "#352",
     "Name": "Kecleon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -2988,7 +3720,9 @@ var allPokemon=[
     "Kdex": "#146",
     "Ndex": "#353",
     "Name": "Shuppet",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -2996,7 +3730,9 @@ var allPokemon=[
     "Kdex": "#147",
     "Ndex": "#354",
     "Name": "Banette",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -3004,7 +3740,9 @@ var allPokemon=[
     "Kdex": "#148",
     "Ndex": "#355",
     "Name": "Duskull",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -3012,7 +3750,9 @@ var allPokemon=[
     "Kdex": "#149",
     "Ndex": "#356",
     "Name": "Dusclops",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -3020,7 +3760,9 @@ var allPokemon=[
     "Kdex": "#150",
     "Ndex": "#357",
     "Name": "Tropius",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -3028,7 +3770,9 @@ var allPokemon=[
     "Kdex": "#151",
     "Ndex": "#358",
     "Name": "Chimecho",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3036,7 +3780,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#359",
     "Name": "Absol",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -3044,7 +3790,9 @@ var allPokemon=[
     "Kdex": "#160",
     "Ndex": "#360",
     "Name": "Wynaut",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3052,7 +3800,9 @@ var allPokemon=[
     "Kdex": "#171",
     "Ndex": "#361",
     "Name": "Snorunt",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -3060,7 +3810,9 @@ var allPokemon=[
     "Kdex": "#172",
     "Ndex": "#362",
     "Name": "Glalie",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -3068,7 +3820,9 @@ var allPokemon=[
     "Kdex": "#173",
     "Ndex": "#363",
     "Name": "Spheal",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Water"
   },
@@ -3076,7 +3830,9 @@ var allPokemon=[
     "Kdex": "#174",
     "Ndex": "#364",
     "Name": "Sealeo",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Water"
   },
@@ -3084,7 +3840,9 @@ var allPokemon=[
     "Kdex": "#175",
     "Ndex": "#365",
     "Name": "Walrein",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Water"
   },
@@ -3092,7 +3850,9 @@ var allPokemon=[
     "Kdex": "#176",
     "Ndex": "#366",
     "Name": "Clamperl",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3100,7 +3860,9 @@ var allPokemon=[
     "Kdex": "#177",
     "Ndex": "#367",
     "Name": "Huntail",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3108,7 +3870,9 @@ var allPokemon=[
     "Kdex": "#178",
     "Ndex": "#368",
     "Name": "Gorebyss",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3116,7 +3880,9 @@ var allPokemon=[
     "Kdex": "#179",
     "Ndex": "#369",
     "Name": "Relicanth",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Rock"
   },
@@ -3124,7 +3890,9 @@ var allPokemon=[
     "Kdex": "#183",
     "Ndex": "#370",
     "Name": "Luvdisc",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3132,7 +3900,9 @@ var allPokemon=[
     "Kdex": "#187",
     "Ndex": "#371",
     "Name": "Bagon",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -3140,7 +3910,9 @@ var allPokemon=[
     "Kdex": "#188",
     "Ndex": "#372",
     "Name": "Shelgon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -3148,7 +3920,9 @@ var allPokemon=[
     "Kdex": "#189",
     "Ndex": "#373",
     "Name": "Salamence",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying"
   },
@@ -3156,7 +3930,9 @@ var allPokemon=[
     "Kdex": "#190",
     "Ndex": "#374",
     "Name": "Beldum",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic"
   },
@@ -3164,7 +3940,9 @@ var allPokemon=[
     "Kdex": "#191",
     "Ndex": "#375",
     "Name": "Metang",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic"
   },
@@ -3172,7 +3950,9 @@ var allPokemon=[
     "Kdex": "#192",
     "Ndex": "#376",
     "Name": "Metagross",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic"
   },
@@ -3180,7 +3960,9 @@ var allPokemon=[
     "Kdex": "#193",
     "Ndex": "#377",
     "Name": "Regirock",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -3188,7 +3970,9 @@ var allPokemon=[
     "Kdex": "#194",
     "Ndex": "#378",
     "Name": "Regice",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -3196,7 +3980,9 @@ var allPokemon=[
     "Kdex": "#195",
     "Ndex": "#379",
     "Name": "Registeel",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Steel",
     "Type2": ""
   },
@@ -3204,7 +3990,9 @@ var allPokemon=[
     "Kdex": "#196",
     "Ndex": "#380",
     "Name": "Latias",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Psychic"
   },
@@ -3212,7 +4000,9 @@ var allPokemon=[
     "Kdex": "#197",
     "Ndex": "#381",
     "Name": "Latios",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Psychic"
   },
@@ -3220,7 +4010,9 @@ var allPokemon=[
     "Kdex": "#198",
     "Ndex": "#382",
     "Name": "Kyogre",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3228,7 +4020,9 @@ var allPokemon=[
     "Kdex": "#199",
     "Ndex": "#383",
     "Name": "Groudon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -3236,7 +4030,9 @@ var allPokemon=[
     "Kdex": "#200",
     "Ndex": "#384",
     "Name": "Rayquaza",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying"
   },
@@ -3244,7 +4040,9 @@ var allPokemon=[
     "Kdex": "#201",
     "Ndex": "#385",
     "Name": "Jirachi",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic"
   },
@@ -3252,7 +4050,9 @@ var allPokemon=[
     "Kdex": "#202",
     "Ndex": "#386",
     "Name": "Deoxys",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3260,7 +4060,9 @@ var allPokemon=[
     "Kdex": "#202",
     "Ndex": "#386",
     "Name": "Deoxys",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3268,7 +4070,9 @@ var allPokemon=[
     "Kdex": "#202",
     "Ndex": "#386",
     "Name": "Deoxys",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3276,7 +4080,9 @@ var allPokemon=[
     "Kdex": "#202",
     "Ndex": "#386",
     "Name": "Deoxys",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3284,7 +4090,9 @@ var allPokemon=[
     "Kdex": "#001",
     "Ndex": "#387",
     "Name": "Turtwig",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -3292,7 +4100,9 @@ var allPokemon=[
     "Kdex": "#002",
     "Ndex": "#388",
     "Name": "Grotle",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -3300,7 +4110,9 @@ var allPokemon=[
     "Kdex": "#003",
     "Ndex": "#389",
     "Name": "Torterra",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Ground"
   },
@@ -3308,7 +4120,9 @@ var allPokemon=[
     "Kdex": "#004",
     "Ndex": "#390",
     "Name": "Chimchar",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -3316,7 +4130,9 @@ var allPokemon=[
     "Kdex": "#005",
     "Ndex": "#391",
     "Name": "Monferno",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting"
   },
@@ -3324,7 +4140,9 @@ var allPokemon=[
     "Kdex": "#006",
     "Ndex": "#392",
     "Name": "Infernape",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting"
   },
@@ -3332,7 +4150,9 @@ var allPokemon=[
     "Kdex": "#007",
     "Ndex": "#393",
     "Name": "Piplup",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3340,7 +4160,9 @@ var allPokemon=[
     "Kdex": "#008",
     "Ndex": "#394",
     "Name": "Prinplup",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3348,7 +4170,9 @@ var allPokemon=[
     "Kdex": "#009",
     "Ndex": "#395",
     "Name": "Empoleon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Steel"
   },
@@ -3356,7 +4180,9 @@ var allPokemon=[
     "Kdex": "#010",
     "Ndex": "#396",
     "Name": "Starly",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -3364,7 +4190,9 @@ var allPokemon=[
     "Kdex": "#011",
     "Ndex": "#397",
     "Name": "Staravia",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -3372,7 +4200,9 @@ var allPokemon=[
     "Kdex": "#012",
     "Ndex": "#398",
     "Name": "Staraptor",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -3380,7 +4210,9 @@ var allPokemon=[
     "Kdex": "#013",
     "Ndex": "#399",
     "Name": "Bidoof",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3388,7 +4220,9 @@ var allPokemon=[
     "Kdex": "#014",
     "Ndex": "#400",
     "Name": "Bibarel",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Water"
   },
@@ -3396,7 +4230,9 @@ var allPokemon=[
     "Kdex": "#015",
     "Ndex": "#401",
     "Name": "Kricketot",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -3404,6 +4240,8 @@ var allPokemon=[
     "Kdex": "#016",
     "Ndex": "#402",
     "Name": "Kricketune",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": ""
@@ -3412,7 +4250,9 @@ var allPokemon=[
     "Kdex": "#017",
     "Ndex": "#403",
     "Name": "Shinx",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -3420,7 +4260,9 @@ var allPokemon=[
     "Kdex": "#018",
     "Ndex": "#404",
     "Name": "Luxio",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -3428,7 +4270,9 @@ var allPokemon=[
     "Kdex": "#019",
     "Ndex": "#405",
     "Name": "Luxray",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -3436,7 +4280,9 @@ var allPokemon=[
     "Kdex": "#025",
     "Ndex": "#406",
     "Name": "Budew",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -3444,7 +4290,9 @@ var allPokemon=[
     "Kdex": "#027",
     "Ndex": "#407",
     "Name": "Roserade",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -3452,7 +4300,9 @@ var allPokemon=[
     "Kdex": "#036",
     "Ndex": "#408",
     "Name": "Cranidos",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -3460,7 +4310,9 @@ var allPokemon=[
     "Kdex": "#037",
     "Ndex": "#409",
     "Name": "Rampardos",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -3468,7 +4320,9 @@ var allPokemon=[
     "Kdex": "#038",
     "Ndex": "#410",
     "Name": "Shieldon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel"
   },
@@ -3476,7 +4330,9 @@ var allPokemon=[
     "Kdex": "#039",
     "Ndex": "#411",
     "Name": "Bastiodon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel"
   },
@@ -3484,7 +4340,9 @@ var allPokemon=[
     "Kdex": "#045",
     "Ndex": "#412",
     "Name": "Burmy",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -3492,7 +4350,9 @@ var allPokemon=[
     "Kdex": "#045",
     "Ndex": "#412",
     "Name": "Burmy",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -3500,7 +4360,9 @@ var allPokemon=[
     "Kdex": "#045",
     "Ndex": "#412",
     "Name": "Burmy",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -3508,7 +4370,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#413",
     "Name": "Wormadam",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass"
   },
@@ -3516,7 +4380,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#413",
     "Name": "Wormadam",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Ground"
   },
@@ -3524,7 +4390,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#413",
     "Name": "Wormadam",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel"
   },
@@ -3532,7 +4400,9 @@ var allPokemon=[
     "Kdex": "#047",
     "Ndex": "#414",
     "Name": "Mothim",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -3540,7 +4410,9 @@ var allPokemon=[
     "Kdex": "#053",
     "Ndex": "#415",
     "Name": "Combee",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -3548,7 +4420,9 @@ var allPokemon=[
     "Kdex": "#054",
     "Ndex": "#416",
     "Name": "Vespiquen",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -3556,7 +4430,9 @@ var allPokemon=[
     "Kdex": "#055",
     "Ndex": "#417",
     "Name": "Pachirisu",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -3564,7 +4440,9 @@ var allPokemon=[
     "Kdex": "#056",
     "Ndex": "#418",
     "Name": "Buizel",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3572,7 +4450,9 @@ var allPokemon=[
     "Kdex": "#057",
     "Ndex": "#419",
     "Name": "Floatzel",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3580,7 +4460,9 @@ var allPokemon=[
     "Kdex": "#058",
     "Ndex": "#420",
     "Name": "Cherubi",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -3588,7 +4470,9 @@ var allPokemon=[
     "Kdex": "#059",
     "Ndex": "#421",
     "Name": "Cherrim",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -3596,7 +4480,9 @@ var allPokemon=[
     "Kdex": "#060",
     "Ndex": "#422",
     "Name": "Shellos",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3604,7 +4490,9 @@ var allPokemon=[
     "Kdex": "#060",
     "Ndex": "#422",
     "Name": "Shellos",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3612,7 +4500,9 @@ var allPokemon=[
     "Kdex": "#061",
     "Ndex": "#423",
     "Name": "Gastrodon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -3620,7 +4510,9 @@ var allPokemon=[
     "Kdex": "#061",
     "Ndex": "#423",
     "Name": "Gastrodon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -3628,7 +4520,9 @@ var allPokemon=[
     "Kdex": "#064",
     "Ndex": "#424",
     "Name": "Ambipom",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3636,7 +4530,9 @@ var allPokemon=[
     "Kdex": "#065",
     "Ndex": "#425",
     "Name": "Drifloon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Flying"
   },
@@ -3644,7 +4540,9 @@ var allPokemon=[
     "Kdex": "#066",
     "Ndex": "#426",
     "Name": "Drifblim",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Flying"
   },
@@ -3652,7 +4550,9 @@ var allPokemon=[
     "Kdex": "#067",
     "Ndex": "#427",
     "Name": "Buneary",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3660,7 +4560,9 @@ var allPokemon=[
     "Kdex": "#068",
     "Ndex": "#428",
     "Name": "Lopunny",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3668,7 +4570,9 @@ var allPokemon=[
     "Kdex": "#073",
     "Ndex": "#429",
     "Name": "Mismagius",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -3676,7 +4580,9 @@ var allPokemon=[
     "Kdex": "#075",
     "Ndex": "#430",
     "Name": "Honchkrow",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying"
   },
@@ -3684,7 +4590,9 @@ var allPokemon=[
     "Kdex": "#076",
     "Ndex": "#431",
     "Name": "Glameow",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3692,7 +4600,9 @@ var allPokemon=[
     "Kdex": "#077",
     "Ndex": "#432",
     "Name": "Purugly",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3700,7 +4610,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#433",
     "Name": "Chingling",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -3708,7 +4620,9 @@ var allPokemon=[
     "Kdex": "#084",
     "Ndex": "#434",
     "Name": "Stunky",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark"
   },
@@ -3716,7 +4630,9 @@ var allPokemon=[
     "Kdex": "#085",
     "Ndex": "#435",
     "Name": "Skuntank",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark"
   },
@@ -3724,7 +4640,9 @@ var allPokemon=[
     "Kdex": "#088",
     "Ndex": "#436",
     "Name": "Bronzor",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic"
   },
@@ -3732,7 +4650,9 @@ var allPokemon=[
     "Kdex": "#089",
     "Ndex": "#437",
     "Name": "Bronzong",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic"
   },
@@ -3740,7 +4660,9 @@ var allPokemon=[
     "Kdex": "#092",
     "Ndex": "#438",
     "Name": "Bonsly",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -3748,7 +4670,9 @@ var allPokemon=[
     "Kdex": "#094",
     "Ndex": "#439",
     "Name": "Mime Jr.",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy"
   },
@@ -3756,7 +4680,9 @@ var allPokemon=[
     "Kdex": "#096",
     "Ndex": "#440",
     "Name": "Happiny",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3764,7 +4690,9 @@ var allPokemon=[
     "Kdex": "#102",
     "Ndex": "#441",
     "Name": "Chatot",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -3772,7 +4700,9 @@ var allPokemon=[
     "Kdex": "#108",
     "Ndex": "#442",
     "Name": "Spiritomb",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Dark"
   },
@@ -3780,7 +4710,9 @@ var allPokemon=[
     "Kdex": "#109",
     "Ndex": "#443",
     "Name": "Gible",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground"
   },
@@ -3788,7 +4720,9 @@ var allPokemon=[
     "Kdex": "#110",
     "Ndex": "#444",
     "Name": "Gabite",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground"
   },
@@ -3796,7 +4730,9 @@ var allPokemon=[
     "Kdex": "#111",
     "Ndex": "#445",
     "Name": "Garchomp",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground"
   },
@@ -3804,7 +4740,9 @@ var allPokemon=[
     "Kdex": "#112",
     "Ndex": "#446",
     "Name": "Munchlax",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -3812,7 +4750,9 @@ var allPokemon=[
     "Kdex": "#115",
     "Ndex": "#447",
     "Name": "Riolu",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -3820,7 +4760,9 @@ var allPokemon=[
     "Kdex": "#116",
     "Ndex": "#448",
     "Name": "Lucario",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": "Steel"
   },
@@ -3828,6 +4770,8 @@ var allPokemon=[
     "Kdex": "#122",
     "Ndex": "#449",
     "Name": "Hippopotas",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Ground",
     "Type2": ""
@@ -3836,7 +4780,9 @@ var allPokemon=[
     "Kdex": "#123",
     "Ndex": "#450",
     "Name": "Hippowdon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -3844,7 +4790,9 @@ var allPokemon=[
     "Kdex": "#127",
     "Ndex": "#451",
     "Name": "Skorupi",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Bug"
   },
@@ -3852,7 +4800,9 @@ var allPokemon=[
     "Kdex": "#128",
     "Ndex": "#452",
     "Name": "Drapion",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark"
   },
@@ -3860,7 +4810,9 @@ var allPokemon=[
     "Kdex": "#129",
     "Ndex": "#453",
     "Name": "Croagunk",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Fighting"
   },
@@ -3868,7 +4820,9 @@ var allPokemon=[
     "Kdex": "#130",
     "Ndex": "#454",
     "Name": "Toxicroak",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Fighting"
   },
@@ -3876,7 +4830,9 @@ var allPokemon=[
     "Kdex": "#131",
     "Ndex": "#455",
     "Name": "Carnivine",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -3884,7 +4840,9 @@ var allPokemon=[
     "Kdex": "#134",
     "Ndex": "#456",
     "Name": "Finneon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3892,7 +4850,9 @@ var allPokemon=[
     "Kdex": "#135",
     "Ndex": "#457",
     "Name": "Lumineon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -3900,7 +4860,9 @@ var allPokemon=[
     "Kdex": "#140",
     "Ndex": "#458",
     "Name": "Mantyke",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -3908,7 +4870,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#459",
     "Name": "Snover",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Ice"
   },
@@ -3916,7 +4880,9 @@ var allPokemon=[
     "Kdex": "#143",
     "Ndex": "#460",
     "Name": "Abomasnow",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Ice"
   },
@@ -3924,7 +4890,9 @@ var allPokemon=[
     "Kdex": "#145",
     "Ndex": "#461",
     "Name": "Weavile",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Ice"
   },
@@ -3932,7 +4900,9 @@ var allPokemon=[
     "Kdex": "#180",
     "Ndex": "#462",
     "Name": "Magnezone",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Steel"
   },
@@ -3940,6 +4910,8 @@ var allPokemon=[
     "Kdex": "#162",
     "Ndex": "#463",
     "Name": "Lickilicky",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": ""
@@ -3948,7 +4920,9 @@ var allPokemon=[
     "Kdex": "#188",
     "Ndex": "#464",
     "Name": "Rhyperior",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Rock"
   },
@@ -3956,7 +4930,9 @@ var allPokemon=[
     "Kdex": "#182",
     "Ndex": "#465",
     "Name": "Tangrowth",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -3964,6 +4940,8 @@ var allPokemon=[
     "Kdex": "#199",
     "Ndex": "#466",
     "Name": "Electivire",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Electric",
     "Type2": ""
@@ -3972,7 +4950,9 @@ var allPokemon=[
     "Kdex": "#202",
     "Ndex": "#467",
     "Name": "Magmortar",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -3980,7 +4960,9 @@ var allPokemon=[
     "Kdex": "#175",
     "Ndex": "#468",
     "Name": "Togekiss",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": "Flying"
   },
@@ -3988,7 +4970,9 @@ var allPokemon=[
     "Kdex": "#184",
     "Ndex": "#469",
     "Name": "Yanmega",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -3996,7 +4980,9 @@ var allPokemon=[
     "Kdex": "#169",
     "Ndex": "#470",
     "Name": "Leafeon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4004,7 +4990,9 @@ var allPokemon=[
     "Kdex": "#170",
     "Ndex": "#471",
     "Name": "Glaceon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -4012,7 +5000,9 @@ var allPokemon=[
     "Kdex": "#154",
     "Ndex": "#472",
     "Name": "Gliscor",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Flying"
   },
@@ -4020,7 +5010,9 @@ var allPokemon=[
     "Kdex": "#205",
     "Ndex": "#473",
     "Name": "Mamoswine",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Ground"
   },
@@ -4028,7 +5020,9 @@ var allPokemon=[
     "Kdex": "#194",
     "Ndex": "#474",
     "Name": "Porygon-Z",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4036,7 +5030,9 @@ var allPokemon=[
     "Kdex": "#160",
     "Ndex": "#475",
     "Name": "Gallade",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fighting"
   },
@@ -4044,7 +5040,9 @@ var allPokemon=[
     "Kdex": "#156",
     "Ndex": "#476",
     "Name": "Probopass",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel"
   },
@@ -4052,7 +5050,9 @@ var allPokemon=[
     "Kdex": "#191",
     "Ndex": "#477",
     "Name": "Dusknoir",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -4060,7 +5060,9 @@ var allPokemon=[
     "Kdex": "#208",
     "Ndex": "#478",
     "Name": "Froslass",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ice",
     "Type2": "Ghost"
   },
@@ -4068,7 +5070,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#479",
     "Name": "Rotom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Ghost"
   },
@@ -4076,7 +5080,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#479",
     "Name": "Rotom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Fire"
   },
@@ -4084,7 +5090,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#479",
     "Name": "Rotom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Water"
   },
@@ -4092,7 +5100,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#479",
     "Name": "Rotom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Ice"
   },
@@ -4100,7 +5110,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#479",
     "Name": "Rotom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying"
   },
@@ -4108,7 +5120,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#479",
     "Name": "Rotom",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Grass"
   },
@@ -4116,6 +5130,7 @@ var allPokemon=[
     "Kdex": "#146",
     "Ndex": "#480",
     "Name": "Uxie",
+		"Sprite": "",
     "MS": "",
     "Type1": "Psychic",
     "Type2": ""
@@ -4124,7 +5139,9 @@ var allPokemon=[
     "Kdex": "#147",
     "Ndex": "#481",
     "Name": "Mesprit",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4132,7 +5149,9 @@ var allPokemon=[
     "Kdex": "#148",
     "Ndex": "#482",
     "Name": "Azelf",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4140,7 +5159,9 @@ var allPokemon=[
     "Kdex": "#149",
     "Ndex": "#483",
     "Name": "Dialga",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Dragon"
   },
@@ -4148,7 +5169,9 @@ var allPokemon=[
     "Kdex": "#150",
     "Ndex": "#484",
     "Name": "Palkia",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Dragon"
   },
@@ -4156,7 +5179,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#485",
     "Name": "Heatran",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Steel"
   },
@@ -4164,7 +5189,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#486",
     "Name": "Regigigas",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4172,7 +5199,9 @@ var allPokemon=[
     "Kdex": "#210",
     "Ndex": "#487",
     "Name": "Giratina",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Dragon"
   },
@@ -4180,7 +5209,9 @@ var allPokemon=[
     "Kdex": "#210",
     "Ndex": "#487",
     "Name": "Giratina",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Dragon"
   },
@@ -4188,7 +5219,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#488",
     "Name": "Cresselia",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4196,7 +5229,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#489",
     "Name": "Phione",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4204,7 +5239,9 @@ var allPokemon=[
     "Kdex": "#151",
     "Ndex": "#490",
     "Name": "Manaphy",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4212,7 +5249,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#491",
     "Name": "Darkrai",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -4220,7 +5259,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#492",
     "Name": "Shaymin",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4228,7 +5269,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#492",
     "Name": "Shaymin",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -4236,7 +5279,9 @@ var allPokemon=[
     "Kdex": "",
     "Ndex": "#493",
     "Name": "Arceus",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4245,7 +5290,9 @@ var allPokemon=[
     "Kdex": "#000",
     "Ndex": "#494",
     "Name": "Victini",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fire"
   },
@@ -4253,7 +5300,9 @@ var allPokemon=[
     "Kdex": "#001",
     "Ndex": "#495",
     "Name": "Snivy",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4261,7 +5310,9 @@ var allPokemon=[
     "Kdex": "#002",
     "Ndex": "#496",
     "Name": "Servine",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4269,7 +5320,9 @@ var allPokemon=[
     "Kdex": "#003",
     "Ndex": "#497",
     "Name": "Serperior",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4277,7 +5330,9 @@ var allPokemon=[
     "Kdex": "#004",
     "Ndex": "#498",
     "Name": "Tepig",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -4285,7 +5340,9 @@ var allPokemon=[
     "Kdex": "#005",
     "Ndex": "#499",
     "Name": "Pignite",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting"
   },
@@ -4293,7 +5350,9 @@ var allPokemon=[
     "Kdex": "#006",
     "Ndex": "#500",
     "Name": "Emboar",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting"
   },
@@ -4301,7 +5360,9 @@ var allPokemon=[
     "Kdex": "#007",
     "Ndex": "#501",
     "Name": "Oshawott",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4309,7 +5370,9 @@ var allPokemon=[
     "Kdex": "#008",
     "Ndex": "#502",
     "Name": "Dewott",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4317,7 +5380,9 @@ var allPokemon=[
     "Kdex": "#009",
     "Ndex": "#503",
     "Name": "Samurott",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4325,7 +5390,9 @@ var allPokemon=[
     "Kdex": "#010",
     "Ndex": "#504",
     "Name": "Patrat",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4333,7 +5400,9 @@ var allPokemon=[
     "Kdex": "#011",
     "Ndex": "#505",
     "Name": "Watchog",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4341,7 +5410,9 @@ var allPokemon=[
     "Kdex": "#012",
     "Ndex": "#506",
     "Name": "Lillipup",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4349,7 +5420,9 @@ var allPokemon=[
     "Kdex": "#013",
     "Ndex": "#507",
     "Name": "Herdier",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4357,7 +5430,9 @@ var allPokemon=[
     "Kdex": "#014",
     "Ndex": "#508",
     "Name": "Stoutland",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4365,7 +5440,9 @@ var allPokemon=[
     "Kdex": "#015",
     "Ndex": "#509",
     "Name": "Purrloin",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -4373,7 +5450,9 @@ var allPokemon=[
     "Kdex": "#016",
     "Ndex": "#510",
     "Name": "Liepard",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -4381,7 +5460,9 @@ var allPokemon=[
     "Kdex": "#017",
     "Ndex": "#511",
     "Name": "Pansage",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4389,7 +5470,9 @@ var allPokemon=[
     "Kdex": "#018",
     "Ndex": "#512",
     "Name": "Simisage",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4397,7 +5480,9 @@ var allPokemon=[
     "Kdex": "#019",
     "Ndex": "#513",
     "Name": "Pansear",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -4405,7 +5490,9 @@ var allPokemon=[
     "Kdex": "#020",
     "Ndex": "#514",
     "Name": "Simisear",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -4413,7 +5500,9 @@ var allPokemon=[
     "Kdex": "#021",
     "Ndex": "#515",
     "Name": "Panpour",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4421,7 +5510,9 @@ var allPokemon=[
     "Kdex": "#022",
     "Ndex": "#516",
     "Name": "Simipour",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4429,7 +5520,9 @@ var allPokemon=[
     "Kdex": "#023",
     "Ndex": "#517",
     "Name": "Munna",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4437,7 +5530,9 @@ var allPokemon=[
     "Kdex": "#024",
     "Ndex": "#518",
     "Name": "Musharna",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4445,7 +5540,9 @@ var allPokemon=[
     "Kdex": "#025",
     "Ndex": "#519",
     "Name": "Pidove",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -4453,7 +5550,9 @@ var allPokemon=[
     "Kdex": "#026",
     "Ndex": "#520",
     "Name": "Tranquill",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -4461,7 +5560,9 @@ var allPokemon=[
     "Kdex": "#027",
     "Ndex": "#521",
     "Name": "Unfezant",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -4469,7 +5570,9 @@ var allPokemon=[
     "Kdex": "#027",
     "Ndex": "#521",
     "Name": "Unfezant",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -4477,7 +5580,9 @@ var allPokemon=[
     "Kdex": "#028",
     "Ndex": "#522",
     "Name": "Blitzle",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -4485,7 +5590,9 @@ var allPokemon=[
     "Kdex": "#029",
     "Ndex": "#523",
     "Name": "Zebstrika",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -4493,6 +5600,8 @@ var allPokemon=[
     "Kdex": "#030",
     "Ndex": "#524",
     "Name": "Roggenrola",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Rock",
     "Type2": ""
@@ -4501,7 +5610,9 @@ var allPokemon=[
     "Kdex": "#031",
     "Ndex": "#525",
     "Name": "Boldore",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -4509,7 +5620,9 @@ var allPokemon=[
     "Kdex": "#032",
     "Ndex": "#526",
     "Name": "Gigalith",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -4517,7 +5630,9 @@ var allPokemon=[
     "Kdex": "#033",
     "Ndex": "#527",
     "Name": "Woobat",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
   },
@@ -4525,7 +5640,9 @@ var allPokemon=[
     "Kdex": "#034",
     "Ndex": "#528",
     "Name": "Swoobat",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
   },
@@ -4533,7 +5650,9 @@ var allPokemon=[
     "Kdex": "#035",
     "Ndex": "#529",
     "Name": "Drilbur",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -4541,7 +5660,9 @@ var allPokemon=[
     "Kdex": "#036",
     "Ndex": "#530",
     "Name": "Excadrill",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Steel"
   },
@@ -4549,7 +5670,9 @@ var allPokemon=[
     "Kdex": "#037",
     "Ndex": "#531",
     "Name": "Audino",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4557,7 +5680,9 @@ var allPokemon=[
     "Kdex": "#038",
     "Ndex": "#532",
     "Name": "Timburr",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -4565,7 +5690,9 @@ var allPokemon=[
     "Kdex": "#039",
     "Ndex": "#533",
     "Name": "Gurdurr",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -4573,6 +5700,8 @@ var allPokemon=[
     "Kdex": "#040",
     "Ndex": "#534",
     "Name": "Conkeldurr",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fighting",
     "Type2": ""
@@ -4581,7 +5710,9 @@ var allPokemon=[
     "Kdex": "#041",
     "Ndex": "#535",
     "Name": "Tympole",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4589,7 +5720,9 @@ var allPokemon=[
     "Kdex": "#042",
     "Ndex": "#536",
     "Name": "Palpitoad",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ground"
   },
@@ -4597,6 +5730,8 @@ var allPokemon=[
     "Kdex": "#043",
     "Ndex": "#537",
     "Name": "Seismitoad",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Water",
     "Type2": "Ground"
@@ -4605,7 +5740,9 @@ var allPokemon=[
     "Kdex": "#044",
     "Ndex": "#538",
     "Name": "Throh",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -4613,6 +5750,7 @@ var allPokemon=[
     "Kdex": "#045",
     "Ndex": "#539",
     "Name": "Sawk",
+		"Sprite": "",
     "MS": "",
     "Type1": "Fighting",
     "Type2": ""
@@ -4621,7 +5759,9 @@ var allPokemon=[
     "Kdex": "#046",
     "Ndex": "#540",
     "Name": "Sewaddle",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass"
   },
@@ -4629,7 +5769,9 @@ var allPokemon=[
     "Kdex": "#047",
     "Ndex": "#541",
     "Name": "Swadloon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass"
   },
@@ -4637,7 +5779,9 @@ var allPokemon=[
     "Kdex": "#048",
     "Ndex": "#542",
     "Name": "Leavanny",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass"
   },
@@ -4645,7 +5789,9 @@ var allPokemon=[
     "Kdex": "#049",
     "Ndex": "#543",
     "Name": "Venipede",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -4653,6 +5799,8 @@ var allPokemon=[
     "Kdex": "#050",
     "Ndex": "#544",
     "Name": "Whirlipede",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
@@ -4661,7 +5809,9 @@ var allPokemon=[
     "Kdex": "#051",
     "Ndex": "#545",
     "Name": "Scolipede",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison"
   },
@@ -4669,7 +5819,9 @@ var allPokemon=[
     "Kdex": "#052",
     "Ndex": "#546",
     "Name": "Cottonee",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy"
   },
@@ -4677,6 +5829,8 @@ var allPokemon=[
     "Kdex": "#053",
     "Ndex": "#547",
     "Name": "Whimsicott",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Grass",
     "Type2": "Fairy"
@@ -4685,7 +5839,9 @@ var allPokemon=[
     "Kdex": "#054",
     "Ndex": "#548",
     "Name": "Petilil",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4693,7 +5849,9 @@ var allPokemon=[
     "Kdex": "#055",
     "Ndex": "#549",
     "Name": "Lilligant",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4701,7 +5859,9 @@ var allPokemon=[
     "Kdex": "#056",
     "Ndex": "#550",
     "Name": "Basculin",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4709,7 +5869,9 @@ var allPokemon=[
     "Kdex": "#056",
     "Ndex": "#550",
     "Name": "Basculin",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -4717,7 +5879,9 @@ var allPokemon=[
     "Kdex": "#057",
     "Ndex": "#551",
     "Name": "Sandile",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Dark"
   },
@@ -4725,7 +5889,9 @@ var allPokemon=[
     "Kdex": "#058",
     "Ndex": "#552",
     "Name": "Krokorok",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Dark"
   },
@@ -4733,6 +5899,8 @@ var allPokemon=[
     "Kdex": "#059",
     "Ndex": "#553",
     "Name": "Krookodile",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Ground",
     "Type2": "Dark"
@@ -4741,6 +5909,18 @@ var allPokemon=[
     "Kdex": "#060",
     "Ndex": "#554",
     "Name": "Darumaka",
+		"Sprite": "",
+ 
+		"MS": "",
+    "Type1": "Fire",
+    "Type2": ""
+  },
+  {
+    "Kdex": "#061",
+    "Ndex": "#555",
+    "Name": "Darmanitan",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": ""
@@ -4749,14 +5929,8 @@ var allPokemon=[
     "Kdex": "#061",
     "Ndex": "#555",
     "Name": "Darmanitan",
-    "MS": "",
-    "Type1": "Fire",
-    "Type2": ""
-  },
-  {
-    "Kdex": "#061",
-    "Ndex": "#555",
-    "Name": "Darmanitan",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": "Psychic"
@@ -4765,7 +5939,9 @@ var allPokemon=[
     "Kdex": "#062",
     "Ndex": "#556",
     "Name": "Maractus",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -4773,7 +5949,9 @@ var allPokemon=[
     "Kdex": "#063",
     "Ndex": "#557",
     "Name": "Dwebble",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Rock"
   },
@@ -4781,7 +5959,9 @@ var allPokemon=[
     "Kdex": "#064",
     "Ndex": "#558",
     "Name": "Crustle",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Rock"
   },
@@ -4789,7 +5969,9 @@ var allPokemon=[
     "Kdex": "#065",
     "Ndex": "#559",
     "Name": "Scraggy",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Fighting"
   },
@@ -4797,7 +5979,9 @@ var allPokemon=[
     "Kdex": "#066",
     "Ndex": "#560",
     "Name": "Scrafty",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Fighting"
   },
@@ -4805,7 +5989,9 @@ var allPokemon=[
     "Kdex": "#067",
     "Ndex": "#561",
     "Name": "Sigilyph",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
   },
@@ -4813,7 +5999,9 @@ var allPokemon=[
     "Kdex": "#068",
     "Ndex": "#562",
     "Name": "Yamask",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ghost",
     "Type2": ""
   },
@@ -4821,6 +6009,8 @@ var allPokemon=[
     "Kdex": "#069",
     "Ndex": "#563",
     "Name": "Cofagrigus",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Ghost",
     "Type2": ""
@@ -4829,7 +6019,9 @@ var allPokemon=[
     "Kdex": "#070",
     "Ndex": "#564",
     "Name": "Tirtouga",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Rock"
   },
@@ -4837,6 +6029,8 @@ var allPokemon=[
     "Kdex": "#071",
     "Ndex": "#565",
     "Name": "Carracosta",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Water",
     "Type2": "Rock"
@@ -4845,7 +6039,9 @@ var allPokemon=[
     "Kdex": "#072",
     "Ndex": "#566",
     "Name": "Archen",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Flying"
   },
@@ -4853,7 +6049,9 @@ var allPokemon=[
     "Kdex": "#073",
     "Ndex": "#567",
     "Name": "Archeops",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Flying"
   },
@@ -4861,7 +6059,9 @@ var allPokemon=[
     "Kdex": "#074",
     "Ndex": "#568",
     "Name": "Trubbish",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -4869,7 +6069,9 @@ var allPokemon=[
     "Kdex": "#075",
     "Ndex": "#569",
     "Name": "Garbodor",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -4877,7 +6079,9 @@ var allPokemon=[
     "Kdex": "#076",
     "Ndex": "#570",
     "Name": "Zorua",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -4885,7 +6089,9 @@ var allPokemon=[
     "Kdex": "#077",
     "Ndex": "#571",
     "Name": "Zoroark",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": ""
   },
@@ -4893,7 +6099,9 @@ var allPokemon=[
     "Kdex": "#078",
     "Ndex": "#572",
     "Name": "Minccino",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4901,7 +6109,9 @@ var allPokemon=[
     "Kdex": "#079",
     "Ndex": "#573",
     "Name": "Cinccino",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -4909,7 +6119,9 @@ var allPokemon=[
     "Kdex": "#080",
     "Ndex": "#574",
     "Name": "Gothita",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4917,7 +6129,9 @@ var allPokemon=[
     "Kdex": "#081",
     "Ndex": "#575",
     "Name": "Gothorita",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4925,6 +6139,8 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#576",
     "Name": "Gothitelle",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Psychic",
     "Type2": ""
@@ -4933,7 +6149,9 @@ var allPokemon=[
     "Kdex": "#083",
     "Ndex": "#577",
     "Name": "Solosis",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4941,7 +6159,9 @@ var allPokemon=[
     "Kdex": "#084",
     "Ndex": "#578",
     "Name": "Duosion",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4949,7 +6169,9 @@ var allPokemon=[
     "Kdex": "#085",
     "Ndex": "#579",
     "Name": "Reuniclus",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -4957,7 +6179,9 @@ var allPokemon=[
     "Kdex": "#086",
     "Ndex": "#580",
     "Name": "Ducklett",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -4965,7 +6189,9 @@ var allPokemon=[
     "Kdex": "#087",
     "Ndex": "#581",
     "Name": "Swanna",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Flying"
   },
@@ -4973,7 +6199,9 @@ var allPokemon=[
     "Kdex": "#088",
     "Ndex": "#582",
     "Name": "Vanillite",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -4981,7 +6209,9 @@ var allPokemon=[
     "Kdex": "#089",
     "Ndex": "#583",
     "Name": "Vanillish",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -4989,7 +6219,9 @@ var allPokemon=[
     "Kdex": "#090",
     "Ndex": "#584",
     "Name": "Vanilluxe",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -4997,7 +6229,9 @@ var allPokemon=[
     "Kdex": "#091",
     "Ndex": "#585",
     "Name": "Deerling",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Grass"
   },
@@ -5005,7 +6239,9 @@ var allPokemon=[
     "Kdex": "#092",
     "Ndex": "#586",
     "Name": "Sawsbuck",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Grass"
   },
@@ -5013,7 +6249,9 @@ var allPokemon=[
     "Kdex": "#093",
     "Ndex": "#587",
     "Name": "Emolga",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying"
   },
@@ -5021,6 +6259,8 @@ var allPokemon=[
     "Kdex": "#094",
     "Ndex": "#588",
     "Name": "Karrablast",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": ""
@@ -5029,6 +6269,8 @@ var allPokemon=[
     "Kdex": "#095",
     "Ndex": "#589",
     "Name": "Escavalier",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": "Steel"
@@ -5037,7 +6279,9 @@ var allPokemon=[
     "Kdex": "#096",
     "Ndex": "#590",
     "Name": "Foongus",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -5045,7 +6289,9 @@ var allPokemon=[
     "Kdex": "#097",
     "Ndex": "#591",
     "Name": "Amoonguss",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison"
   },
@@ -5053,7 +6299,9 @@ var allPokemon=[
     "Kdex": "#098",
     "Ndex": "#592",
     "Name": "Frillish",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ghost"
   },
@@ -5061,7 +6309,9 @@ var allPokemon=[
     "Kdex": "#098",
     "Ndex": "#592",
     "Name": "Frillish",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ghost"
   },
@@ -5069,7 +6319,9 @@ var allPokemon=[
     "Kdex": "#099",
     "Ndex": "#593",
     "Name": "Jellicent",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ghost"
   },
@@ -5077,7 +6329,9 @@ var allPokemon=[
     "Kdex": "#099",
     "Ndex": "#593",
     "Name": "Jellicent",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Ghost"
   },
@@ -5085,7 +6339,9 @@ var allPokemon=[
     "Kdex": "#100",
     "Ndex": "#594",
     "Name": "Alomomola",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -5093,7 +6349,9 @@ var allPokemon=[
     "Kdex": "#101",
     "Ndex": "#595",
     "Name": "Joltik",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Electric"
   },
@@ -5101,6 +6359,8 @@ var allPokemon=[
     "Kdex": "#102",
     "Ndex": "#596",
     "Name": "Galvantula",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": "Electric"
@@ -5109,7 +6369,9 @@ var allPokemon=[
     "Kdex": "#103",
     "Ndex": "#597",
     "Name": "Ferroseed",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Steel"
   },
@@ -5117,6 +6379,8 @@ var allPokemon=[
     "Kdex": "#104",
     "Ndex": "#598",
     "Name": "Ferrothorn",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Grass",
     "Type2": "Steel"
@@ -5125,7 +6389,9 @@ var allPokemon=[
     "Kdex": "#105",
     "Ndex": "#599",
     "Name": "Klink",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Steel",
     "Type2": ""
   },
@@ -5133,7 +6399,9 @@ var allPokemon=[
     "Kdex": "#106",
     "Ndex": "#600",
     "Name": "Klang",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Steel",
     "Type2": ""
   },
@@ -5141,7 +6409,9 @@ var allPokemon=[
     "Kdex": "#107",
     "Ndex": "#601",
     "Name": "Klinklang",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Steel",
     "Type2": ""
   },
@@ -5149,7 +6419,9 @@ var allPokemon=[
     "Kdex": "#108",
     "Ndex": "#602",
     "Name": "Tynamo",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -5157,7 +6429,9 @@ var allPokemon=[
     "Kdex": "#109",
     "Ndex": "#603",
     "Name": "Eelektrik",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -5165,6 +6439,8 @@ var allPokemon=[
     "Kdex": "#110",
     "Ndex": "#604",
     "Name": "Eelektross",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Electric",
     "Type2": ""
@@ -5173,7 +6449,9 @@ var allPokemon=[
     "Kdex": "#111",
     "Ndex": "#605",
     "Name": "Elgyem",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -5181,7 +6459,9 @@ var allPokemon=[
     "Kdex": "#112",
     "Ndex": "#606",
     "Name": "Beheeyem",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -5189,7 +6469,9 @@ var allPokemon=[
     "Kdex": "#113",
     "Ndex": "#607",
     "Name": "Litwick",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Fire"
   },
@@ -5197,7 +6479,9 @@ var allPokemon=[
     "Kdex": "#114",
     "Ndex": "#608",
     "Name": "Lampent",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Fire"
   },
@@ -5205,6 +6489,8 @@ var allPokemon=[
     "Kdex": "#115",
     "Ndex": "#609",
     "Name": "Chandelure",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Ghost",
     "Type2": "Fire"
@@ -5213,6 +6499,7 @@ var allPokemon=[
     "Kdex": "#116",
     "Ndex": "#610",
     "Name": "Axew",
+		"Sprite": "",
     "MS": "",
     "Type1": "Dragon",
     "Type2": ""
@@ -5221,7 +6508,9 @@ var allPokemon=[
     "Kdex": "#117",
     "Ndex": "#611",
     "Name": "Fraxure",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -5229,7 +6518,9 @@ var allPokemon=[
     "Kdex": "#118",
     "Ndex": "#612",
     "Name": "Haxorus",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -5237,7 +6528,9 @@ var allPokemon=[
     "Kdex": "#119",
     "Ndex": "#613",
     "Name": "Cubchoo",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -5245,7 +6538,9 @@ var allPokemon=[
     "Kdex": "#120",
     "Ndex": "#614",
     "Name": "Beartic",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -5253,7 +6548,9 @@ var allPokemon=[
     "Kdex": "#121",
     "Ndex": "#615",
     "Name": "Cryogonal",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -5261,7 +6558,9 @@ var allPokemon=[
     "Kdex": "#122",
     "Ndex": "#616",
     "Name": "Shelmet",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -5269,7 +6568,9 @@ var allPokemon=[
     "Kdex": "#123",
     "Ndex": "#617",
     "Name": "Accelgor",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -5277,7 +6578,9 @@ var allPokemon=[
     "Kdex": "#124",
     "Ndex": "#618",
     "Name": "Stunfisk",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Electric"
   },
@@ -5285,7 +6588,9 @@ var allPokemon=[
     "Kdex": "#125",
     "Ndex": "#619",
     "Name": "Mienfoo",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -5293,7 +6598,9 @@ var allPokemon=[
     "Kdex": "#126",
     "Ndex": "#620",
     "Name": "Mienshao",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -5301,7 +6608,9 @@ var allPokemon=[
     "Kdex": "#127",
     "Ndex": "#621",
     "Name": "Druddigon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -5309,7 +6618,9 @@ var allPokemon=[
     "Kdex": "#128",
     "Ndex": "#622",
     "Name": "Golett",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Ghost"
   },
@@ -5317,7 +6628,9 @@ var allPokemon=[
     "Kdex": "#129",
     "Ndex": "#623",
     "Name": "Golurk",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Ghost"
   },
@@ -5325,7 +6638,9 @@ var allPokemon=[
     "Kdex": "#130",
     "Ndex": "#624",
     "Name": "Pawniard",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Steel"
   },
@@ -5333,7 +6648,9 @@ var allPokemon=[
     "Kdex": "#131",
     "Ndex": "#625",
     "Name": "Bisharp",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Steel"
   },
@@ -5341,6 +6658,8 @@ var allPokemon=[
     "Kdex": "#132",
     "Ndex": "#626",
     "Name": "Bouffalant",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": ""
@@ -5349,7 +6668,9 @@ var allPokemon=[
     "Kdex": "#133",
     "Ndex": "#627",
     "Name": "Rufflet",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -5357,7 +6678,9 @@ var allPokemon=[
     "Kdex": "#134",
     "Ndex": "#628",
     "Name": "Braviary",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -5365,7 +6688,9 @@ var allPokemon=[
     "Kdex": "#135",
     "Ndex": "#629",
     "Name": "Vullaby",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying"
   },
@@ -5373,7 +6698,9 @@ var allPokemon=[
     "Kdex": "#136",
     "Ndex": "#630",
     "Name": "Mandibuzz",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying"
   },
@@ -5381,7 +6708,9 @@ var allPokemon=[
     "Kdex": "#137",
     "Ndex": "#631",
     "Name": "Heatmor",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -5389,7 +6718,9 @@ var allPokemon=[
     "Kdex": "#138",
     "Ndex": "#632",
     "Name": "Durant",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel"
   },
@@ -5397,7 +6728,9 @@ var allPokemon=[
     "Kdex": "#139",
     "Ndex": "#633",
     "Name": "Deino",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon"
   },
@@ -5405,7 +6738,9 @@ var allPokemon=[
     "Kdex": "#140",
     "Ndex": "#634",
     "Name": "Zweilous",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon"
   },
@@ -5413,7 +6748,9 @@ var allPokemon=[
     "Kdex": "#141",
     "Ndex": "#635",
     "Name": "Hydreigon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon"
   },
@@ -5421,7 +6758,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#636",
     "Name": "Larvesta",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fire"
   },
@@ -5429,7 +6768,9 @@ var allPokemon=[
     "Kdex": "#143",
     "Ndex": "#637",
     "Name": "Volcarona",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fire"
   },
@@ -5437,7 +6778,9 @@ var allPokemon=[
     "Kdex": "#144",
     "Ndex": "#638",
     "Name": "Cobalion",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Fighting"
   },
@@ -5445,7 +6788,9 @@ var allPokemon=[
     "Kdex": "#145",
     "Ndex": "#639",
     "Name": "Terrakion",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Fighting"
   },
@@ -5453,7 +6798,9 @@ var allPokemon=[
     "Kdex": "#146",
     "Ndex": "#640",
     "Name": "Virizion",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Fighting"
   },
@@ -5461,7 +6808,9 @@ var allPokemon=[
     "Kdex": "#147",
     "Ndex": "#641",
     "Name": "Tornadus",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Flying",
     "Type2": ""
   },
@@ -5469,7 +6818,9 @@ var allPokemon=[
     "Kdex": "#148",
     "Ndex": "#642",
     "Name": "Thundurus",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying"
   },
@@ -5477,7 +6828,9 @@ var allPokemon=[
     "Kdex": "#149",
     "Ndex": "#643",
     "Name": "Reshiram",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Fire"
   },
@@ -5485,7 +6838,9 @@ var allPokemon=[
     "Kdex": "#150",
     "Ndex": "#644",
     "Name": "Zekrom",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Electric"
   },
@@ -5493,7 +6848,9 @@ var allPokemon=[
     "Kdex": "#151",
     "Ndex": "#645",
     "Name": "Landorus",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ground",
     "Type2": "Flying"
   },
@@ -5501,7 +6858,9 @@ var allPokemon=[
     "Kdex": "#152",
     "Ndex": "#646",
     "Name": "Kyurem",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ice"
   },
@@ -5509,7 +6868,9 @@ var allPokemon=[
     "Kdex": "#153",
     "Ndex": "#647",
     "Name": "Keldeo",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Water",
     "Type2": "Fighting"
   },
@@ -5517,7 +6878,9 @@ var allPokemon=[
     "Kdex": "#154",
     "Ndex": "#648",
     "Name": "Meloetta",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Psychic"
   },
@@ -5525,7 +6888,9 @@ var allPokemon=[
     "Kdex": "#154",
     "Ndex": "#648",
     "Name": "Meloetta",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Fighting"
   },
@@ -5533,7 +6898,9 @@ var allPokemon=[
     "Kdex": "#155",
     "Ndex": "#649",
     "Name": "Genesect",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel"
   },
@@ -5541,7 +6908,9 @@ var allPokemon=[
     "Kdex": "#001Ce",
     "Ndex": "#650",
     "Name": "Chespin",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -5549,7 +6918,9 @@ var allPokemon=[
     "Kdex": "#002Ce",
     "Ndex": "#651",
     "Name": "Quilladin",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -5557,6 +6928,8 @@ var allPokemon=[
     "Kdex": "#003Ce",
     "Ndex": "#652",
     "Name": "Chesnaught",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Grass",
     "Type2": "Fighting"
@@ -5565,7 +6938,9 @@ var allPokemon=[
     "Kdex": "#004Ce",
     "Ndex": "#653",
     "Name": "Fennekin",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -5573,7 +6948,9 @@ var allPokemon=[
     "Kdex": "#005Ce",
     "Ndex": "#654",
     "Name": "Braixen",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -5581,7 +6958,9 @@ var allPokemon=[
     "Kdex": "#006Ce",
     "Ndex": "#655",
     "Name": "Delphox",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Psychic"
   },
@@ -5589,7 +6968,9 @@ var allPokemon=[
     "Kdex": "#007Ce",
     "Ndex": "#656",
     "Name": "Froakie",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -5597,7 +6978,9 @@ var allPokemon=[
     "Kdex": "#008Ce",
     "Ndex": "#657",
     "Name": "Frogadier",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -5605,7 +6988,9 @@ var allPokemon=[
     "Kdex": "#009Ce",
     "Ndex": "#658",
     "Name": "Greninja",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Dark"
   },
@@ -5613,7 +6998,9 @@ var allPokemon=[
     "Kdex": "#010Ce",
     "Ndex": "#659",
     "Name": "Bunnelby",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -5621,7 +7008,9 @@ var allPokemon=[
     "Kdex": "#011Ce",
     "Ndex": "#660",
     "Name": "Diggersby",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Ground"
   },
@@ -5629,6 +7018,8 @@ var allPokemon=[
     "Kdex": "#014Ce",
     "Ndex": "#661",
     "Name": "Fletchling",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
@@ -5637,6 +7028,7 @@ var allPokemon=[
     "Kdex": "#015Ce",
     "Ndex": "#662",
     "Name": "Fletchinder",
+		"Sprite": "",
     "MS": "",
     "Type1": "Fire",
     "Type2": "Flying"
@@ -5645,6 +7037,8 @@ var allPokemon=[
     "Kdex": "#016Ce",
     "Ndex": "#663",
     "Name": "Talonflame",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": "Flying"
@@ -5653,6 +7047,8 @@ var allPokemon=[
     "Kdex": "#020Ce",
     "Ndex": "#664",
     "Name": "Scatterbug",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Bug",
     "Type2": ""
@@ -5661,7 +7057,9 @@ var allPokemon=[
     "Kdex": "#021Ce",
     "Ndex": "#665",
     "Name": "Spewpa",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -5669,7 +7067,9 @@ var allPokemon=[
     "Kdex": "#022Ce",
     "Ndex": "#666",
     "Name": "Vivillon",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying"
   },
@@ -5677,7 +7077,9 @@ var allPokemon=[
     "Kdex": "#057Ce",
     "Ndex": "#667",
     "Name": "Litleo",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Normal"
   },
@@ -5685,7 +7087,9 @@ var allPokemon=[
     "Kdex": "#058Ce",
     "Ndex": "#668",
     "Name": "Pyroar",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Normal"
   },
@@ -5693,7 +7097,9 @@ var allPokemon=[
     "Kdex": "#068Ce",
     "Ndex": "#669",
     "Name": "Flabébé",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5701,7 +7107,9 @@ var allPokemon=[
     "Kdex": "#069Ce",
     "Ndex": "#670",
     "Name": "Floette",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5709,7 +7117,9 @@ var allPokemon=[
     "Kdex": "#070Ce",
     "Ndex": "#671",
     "Name": "Florges",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5717,7 +7127,9 @@ var allPokemon=[
     "Kdex": "#089Ce",
     "Ndex": "#672",
     "Name": "Skiddo",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -5725,7 +7137,9 @@ var allPokemon=[
     "Kdex": "#090Ce",
     "Ndex": "#673",
     "Name": "Gogoat",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -5733,7 +7147,9 @@ var allPokemon=[
     "Kdex": "#091Ce",
     "Ndex": "#674",
     "Name": "Pancham",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -5741,7 +7157,9 @@ var allPokemon=[
     "Kdex": "#092Ce",
     "Ndex": "#675",
     "Name": "Pangoro",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fighting",
     "Type2": "Dark"
   },
@@ -5749,7 +7167,9 @@ var allPokemon=[
     "Kdex": "#093Ce",
     "Ndex": "#676",
     "Name": "Furfrou",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -5757,7 +7177,9 @@ var allPokemon=[
     "Kdex": "#114Ce",
     "Ndex": "#677",
     "Name": "Espurr",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -5765,7 +7187,9 @@ var allPokemon=[
     "Kdex": "#115Ce",
     "Ndex": "#678",
     "Name": "Meowstic",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -5773,7 +7197,9 @@ var allPokemon=[
     "Kdex": "#117Ce",
     "Ndex": "#679",
     "Name": "Honedge",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Ghost"
   },
@@ -5781,7 +7207,9 @@ var allPokemon=[
     "Kdex": "#118Ce",
     "Ndex": "#680",
     "Name": "Doublade",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Ghost"
   },
@@ -5789,7 +7217,9 @@ var allPokemon=[
     "Kdex": "#119Ce",
     "Ndex": "#681",
     "Name": "Aegislash",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Ghost"
   },
@@ -5797,7 +7227,9 @@ var allPokemon=[
     "Kdex": "#129Ce",
     "Ndex": "#682",
     "Name": "Spritzee",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5805,6 +7237,8 @@ var allPokemon=[
     "Kdex": "#130Ce",
     "Ndex": "#683",
     "Name": "Aromatisse",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fairy",
     "Type2": ""
@@ -5813,7 +7247,9 @@ var allPokemon=[
     "Kdex": "#131Ce",
     "Ndex": "#684",
     "Name": "Swirlix",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5821,7 +7257,9 @@ var allPokemon=[
     "Kdex": "#132Ce",
     "Ndex": "#685",
     "Name": "Slurpuff",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5829,7 +7267,9 @@ var allPokemon=[
     "Kdex": "#010Co",
     "Ndex": "#686",
     "Name": "Inkay",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Psychic"
   },
@@ -5837,7 +7277,9 @@ var allPokemon=[
     "Kdex": "#011Co",
     "Ndex": "#687",
     "Name": "Malamar",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Psychic"
   },
@@ -5845,7 +7287,9 @@ var allPokemon=[
     "Kdex": "#021Co",
     "Ndex": "#688",
     "Name": "Binacle",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Water"
   },
@@ -5853,6 +7297,8 @@ var allPokemon=[
     "Kdex": "#022Co",
     "Ndex": "#689",
     "Name": "Barbaracle",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Rock",
     "Type2": "Water"
@@ -5861,7 +7307,9 @@ var allPokemon=[
     "Kdex": "#030Co",
     "Ndex": "#690",
     "Name": "Skrelp",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Water"
   },
@@ -5869,7 +7317,9 @@ var allPokemon=[
     "Kdex": "#031Co",
     "Ndex": "#691",
     "Name": "Dragalge",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Dragon"
   },
@@ -5877,7 +7327,9 @@ var allPokemon=[
     "Kdex": "#032Co",
     "Ndex": "#692",
     "Name": "Clauncher",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -5885,7 +7337,9 @@ var allPokemon=[
     "Kdex": "#033Co",
     "Ndex": "#693",
     "Name": "Clawitzer",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -5893,6 +7347,8 @@ var allPokemon=[
     "Kdex": "#046Co",
     "Ndex": "#694",
     "Name": "Helioptile",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Electric",
     "Type2": "Normal"
@@ -5901,7 +7357,9 @@ var allPokemon=[
     "Kdex": "#047Co",
     "Ndex": "#695",
     "Name": "Heliolisk",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Normal"
   },
@@ -5909,7 +7367,9 @@ var allPokemon=[
     "Kdex": "#064Co",
     "Ndex": "#696",
     "Name": "Tyrunt",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Dragon"
   },
@@ -5917,7 +7377,9 @@ var allPokemon=[
     "Kdex": "#065Co",
     "Ndex": "#697",
     "Name": "Tyrantrum",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Dragon"
   },
@@ -5925,7 +7387,9 @@ var allPokemon=[
     "Kdex": "#066Co",
     "Ndex": "#698",
     "Name": "Amaura",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ice"
   },
@@ -5933,7 +7397,9 @@ var allPokemon=[
     "Kdex": "#067Co",
     "Ndex": "#699",
     "Name": "Aurorus",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Ice"
   },
@@ -5941,7 +7407,9 @@ var allPokemon=[
     "Kdex": "#085Co",
     "Ndex": "#700",
     "Name": "Sylveon",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -5949,7 +7417,9 @@ var allPokemon=[
     "Kdex": "#089Co",
     "Ndex": "#701",
     "Name": "Hawlucha",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fighting",
     "Type2": "Flying"
   },
@@ -5957,7 +7427,9 @@ var allPokemon=[
     "Kdex": "#110Co",
     "Ndex": "#702",
     "Name": "Dedenne",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Fairy"
   },
@@ -5965,7 +7437,9 @@ var allPokemon=[
     "Kdex": "#124Co",
     "Ndex": "#703",
     "Name": "Carbink",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Fairy"
   },
@@ -5973,7 +7447,9 @@ var allPokemon=[
     "Kdex": "#019Mo",
     "Ndex": "#704",
     "Name": "Goomy",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -5981,7 +7457,9 @@ var allPokemon=[
     "Kdex": "#020Mo",
     "Ndex": "#705",
     "Name": "Sliggoo",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -5989,7 +7467,9 @@ var allPokemon=[
     "Kdex": "#021Mo",
     "Ndex": "#706",
     "Name": "Goodra",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -5997,7 +7477,9 @@ var allPokemon=[
     "Kdex": "#050Mo",
     "Ndex": "#707",
     "Name": "Klefki",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Fairy"
   },
@@ -6005,7 +7487,9 @@ var allPokemon=[
     "Kdex": "#061Mo",
     "Ndex": "#708",
     "Name": "Phantump",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass"
   },
@@ -6013,7 +7497,9 @@ var allPokemon=[
     "Kdex": "#062Mo",
     "Ndex": "#709",
     "Name": "Trevenant",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass"
   },
@@ -6021,7 +7507,9 @@ var allPokemon=[
     "Kdex": "#063Mo",
     "Ndex": "#710",
     "Name": "Pumpkaboo",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass"
   },
@@ -6029,7 +7517,9 @@ var allPokemon=[
     "Kdex": "#064Mo",
     "Ndex": "#711",
     "Name": "Gourgeist",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass"
   },
@@ -6037,7 +7527,9 @@ var allPokemon=[
     "Kdex": "#079Mo",
     "Ndex": "#712",
     "Name": "Bergmite",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -6045,7 +7537,9 @@ var allPokemon=[
     "Kdex": "#080Mo",
     "Ndex": "#713",
     "Name": "Avalugg",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ice",
     "Type2": ""
   },
@@ -6053,7 +7547,9 @@ var allPokemon=[
     "Kdex": "#113Mo",
     "Ndex": "#714",
     "Name": "Noibat",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Flying",
     "Type2": "Dragon"
   },
@@ -6061,7 +7557,9 @@ var allPokemon=[
     "Kdex": "#114Mo",
     "Ndex": "#715",
     "Name": "Noivern",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Flying",
     "Type2": "Dragon"
   },
@@ -6069,7 +7567,9 @@ var allPokemon=[
     "Kdex": "#148Mo",
     "Ndex": "#716",
     "Name": "Xerneas",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -6077,7 +7577,9 @@ var allPokemon=[
     "Kdex": "#149Mo",
     "Ndex": "#717",
     "Name": "Yveltal",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying"
   },
@@ -6085,7 +7587,9 @@ var allPokemon=[
     "Kdex": "#150Mo",
     "Ndex": "#718",
     "Name": "Zygarde",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground"
   },
@@ -6093,7 +7597,9 @@ var allPokemon=[
     "Kdex": "#151Ce",
     "Ndex": "#719",
     "Name": "Diancie",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Fairy"
   },
@@ -6101,7 +7607,9 @@ var allPokemon=[
     "Kdex": "#152Ce",
     "Ndex": "#720",
     "Name": "Hoopa",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Ghost"
   },
@@ -6109,7 +7617,9 @@ var allPokemon=[
     "Kdex": "#152Ce",
     "Ndex": "#720",
     "Name": "Hoopa",
-    "MS": "",
+		"Sprite": "",
+    
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Dark"
   },
@@ -6117,7 +7627,9 @@ var allPokemon=[
     "Kdex": "#153Ce",
     "Ndex": "#721",
     "Name": "Volcanion",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Water"
   },
@@ -6125,7 +7637,9 @@ var allPokemon=[
     "Kdex": "#001",
     "Ndex": "#722",
     "Name": "Rowlet",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -6133,7 +7647,9 @@ var allPokemon=[
     "Kdex": "#002",
     "Ndex": "#723",
     "Name": "Dartrix",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying"
   },
@@ -6141,7 +7657,9 @@ var allPokemon=[
     "Kdex": "#003",
     "Ndex": "#724",
     "Name": "Decidueye",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Ghost"
   },
@@ -6149,7 +7667,9 @@ var allPokemon=[
     "Kdex": "#004",
     "Ndex": "#725",
     "Name": "Litten",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -6157,7 +7677,9 @@ var allPokemon=[
     "Kdex": "#005",
     "Ndex": "#726",
     "Name": "Torracat",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": ""
   },
@@ -6165,6 +7687,8 @@ var allPokemon=[
     "Kdex": "#006",
     "Ndex": "#727",
     "Name": "Incineroar",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": "Dark"
@@ -6173,7 +7697,9 @@ var allPokemon=[
     "Kdex": "#007",
     "Ndex": "#728",
     "Name": "Popplio",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -6181,7 +7707,9 @@ var allPokemon=[
     "Kdex": "#008",
     "Ndex": "#729",
     "Name": "Brionne",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -6189,7 +7717,9 @@ var allPokemon=[
     "Kdex": "#009",
     "Ndex": "#730",
     "Name": "Primarina",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy"
   },
@@ -6197,7 +7727,9 @@ var allPokemon=[
     "Kdex": "#010",
     "Ndex": "#731",
     "Name": "Pikipek",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -6205,7 +7737,9 @@ var allPokemon=[
     "Kdex": "#011",
     "Ndex": "#732",
     "Name": "Trumbeak",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -6213,7 +7747,9 @@ var allPokemon=[
     "Kdex": "#012",
     "Ndex": "#733",
     "Name": "Toucannon",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying"
   },
@@ -6221,7 +7757,9 @@ var allPokemon=[
     "Kdex": "#013",
     "Ndex": "#734",
     "Name": "Yungoos",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -6229,7 +7767,9 @@ var allPokemon=[
     "Kdex": "#014",
     "Ndex": "#735",
     "Name": "Gumshoos",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -6237,7 +7777,9 @@ var allPokemon=[
     "Kdex": "#027",
     "Ndex": "#736",
     "Name": "Grubbin",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Bug",
     "Type2": ""
   },
@@ -6245,7 +7787,9 @@ var allPokemon=[
     "Kdex": "#028",
     "Ndex": "#737",
     "Name": "Charjabug",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Electric"
   },
@@ -6253,7 +7797,9 @@ var allPokemon=[
     "Kdex": "#029",
     "Ndex": "#738",
     "Name": "Vikavolt",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Electric"
   },
@@ -6261,6 +7807,8 @@ var allPokemon=[
     "Kdex": "#059",
     "Ndex": "#739",
     "Name": "Crabrawler",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fighting",
     "Type2": ""
@@ -6269,6 +7817,7 @@ var allPokemon=[
     "Kdex": "#060",
     "Ndex": "#740",
     "Name": "Crabominable",
+		"Sprite": "",
     "MS": "",
     "Type1": "Fighting",
     "Type2": "Ice"
@@ -6277,7 +7826,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#741",
     "Name": "Oricorio",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying"
   },
@@ -6285,7 +7836,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#741",
     "Name": "Oricorio",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying"
   },
@@ -6293,7 +7846,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#741",
     "Name": "Oricorio",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying"
   },
@@ -6301,7 +7856,9 @@ var allPokemon=[
     "Kdex": "#082",
     "Ndex": "#741",
     "Name": "Oricorio",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Flying"
   },
@@ -6309,7 +7866,9 @@ var allPokemon=[
     "Kdex": "#083",
     "Ndex": "#742",
     "Name": "Cutiefly",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fairy"
   },
@@ -6317,7 +7876,9 @@ var allPokemon=[
     "Kdex": "#084",
     "Ndex": "#743",
     "Name": "Ribombee",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fairy"
   },
@@ -6325,7 +7886,9 @@ var allPokemon=[
     "Kdex": "#103",
     "Ndex": "#744",
     "Name": "Rockruff",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -6333,7 +7896,9 @@ var allPokemon=[
     "Kdex": "#104",
     "Ndex": "#745",
     "Name": "Lycanroc",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": ""
   },
@@ -6341,6 +7906,8 @@ var allPokemon=[
     "Kdex": "#110",
     "Ndex": "#746",
     "Name": "Wishiwashi",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Water",
     "Type2": ""
@@ -6349,7 +7916,9 @@ var allPokemon=[
     "Kdex": "#113",
     "Ndex": "#747",
     "Name": "Mareanie",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Water"
   },
@@ -6357,7 +7926,9 @@ var allPokemon=[
     "Kdex": "#114",
     "Ndex": "#748",
     "Name": "Toxapex",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Water"
   },
@@ -6365,7 +7936,9 @@ var allPokemon=[
     "Kdex": "#132",
     "Ndex": "#749",
     "Name": "Mudbray",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -6373,7 +7946,9 @@ var allPokemon=[
     "Kdex": "#133",
     "Ndex": "#750",
     "Name": "Mudsdale",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ground",
     "Type2": ""
   },
@@ -6381,7 +7956,9 @@ var allPokemon=[
     "Kdex": "#141",
     "Ndex": "#751",
     "Name": "Dewpider",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Water",
     "Type2": "Bug"
   },
@@ -6389,7 +7966,9 @@ var allPokemon=[
     "Kdex": "#142",
     "Ndex": "#752",
     "Name": "Araquanid",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Bug"
   },
@@ -6397,7 +7976,9 @@ var allPokemon=[
     "Kdex": "#143",
     "Ndex": "#753",
     "Name": "Fomantis",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -6405,7 +7986,9 @@ var allPokemon=[
     "Kdex": "#144",
     "Ndex": "#754",
     "Name": "Lurantis",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -6413,7 +7996,9 @@ var allPokemon=[
     "Kdex": "#145",
     "Ndex": "#755",
     "Name": "Morelull",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy"
   },
@@ -6421,7 +8006,9 @@ var allPokemon=[
     "Kdex": "#146",
     "Ndex": "#756",
     "Name": "Shiinotic",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy"
   },
@@ -6429,7 +8016,9 @@ var allPokemon=[
     "Kdex": "#161",
     "Ndex": "#757",
     "Name": "Salandit",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Fire"
   },
@@ -6437,7 +8026,9 @@ var allPokemon=[
     "Kdex": "#162",
     "Ndex": "#758",
     "Name": "Salazzle",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Fire"
   },
@@ -6445,7 +8036,9 @@ var allPokemon=[
     "Kdex": "#169",
     "Ndex": "#759",
     "Name": "Stufful",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Fighting"
   },
@@ -6453,7 +8046,9 @@ var allPokemon=[
     "Kdex": "#170",
     "Ndex": "#760",
     "Name": "Bewear",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Fighting"
   },
@@ -6461,7 +8056,9 @@ var allPokemon=[
     "Kdex": "#171",
     "Ndex": "#761",
     "Name": "Bounsweet",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -6469,7 +8066,9 @@ var allPokemon=[
     "Kdex": "#172",
     "Ndex": "#762",
     "Name": "Steenee",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -6477,7 +8076,9 @@ var allPokemon=[
     "Kdex": "#173",
     "Ndex": "#763",
     "Name": "Tsareena",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Grass",
     "Type2": ""
   },
@@ -6485,7 +8086,9 @@ var allPokemon=[
     "Kdex": "#174",
     "Ndex": "#764",
     "Name": "Comfey",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Fairy",
     "Type2": ""
   },
@@ -6493,7 +8096,9 @@ var allPokemon=[
     "Kdex": "#176",
     "Ndex": "#765",
     "Name": "Oranguru",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Psychic"
   },
@@ -6501,7 +8106,9 @@ var allPokemon=[
     "Kdex": "#177",
     "Ndex": "#766",
     "Name": "Passimian",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fighting",
     "Type2": ""
   },
@@ -6509,7 +8116,9 @@ var allPokemon=[
     "Kdex": "#182",
     "Ndex": "#767",
     "Name": "Wimpod",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Water"
   },
@@ -6517,7 +8126,9 @@ var allPokemon=[
     "Kdex": "#183",
     "Ndex": "#768",
     "Name": "Golisopod",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Water"
   },
@@ -6525,7 +8136,9 @@ var allPokemon=[
     "Kdex": "#186",
     "Ndex": "#769",
     "Name": "Sandygast",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Ground"
   },
@@ -6533,7 +8146,9 @@ var allPokemon=[
     "Kdex": "#187",
     "Ndex": "#770",
     "Name": "Palossand",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Ground"
   },
@@ -6541,7 +8156,9 @@ var allPokemon=[
     "Kdex": "#200",
     "Ndex": "#771",
     "Name": "Pyukumuku",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": ""
   },
@@ -6549,6 +8166,8 @@ var allPokemon=[
     "Kdex": "#203",
     "Ndex": "#772",
     "Name": "Type: Null",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Normal",
     "Type2": ""
@@ -6557,7 +8176,9 @@ var allPokemon=[
     "Kdex": "#204",
     "Ndex": "#773",
     "Name": "Silvally",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -6565,7 +8186,9 @@ var allPokemon=[
     "Kdex": "#213",
     "Ndex": "#774",
     "Name": "Minior",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Flying"
   },
@@ -6573,7 +8196,9 @@ var allPokemon=[
     "Kdex": "#222",
     "Ndex": "#775",
     "Name": "Komala",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": ""
   },
@@ -6581,6 +8206,8 @@ var allPokemon=[
     "Kdex": "#224",
     "Ndex": "#776",
     "Name": "Turtonator",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Fire",
     "Type2": "Dragon"
@@ -6589,6 +8216,8 @@ var allPokemon=[
     "Kdex": "#225",
     "Ndex": "#777",
     "Name": "Togedemaru",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Electric",
     "Type2": "Steel"
@@ -6597,7 +8226,9 @@ var allPokemon=[
     "Kdex": "#242",
     "Ndex": "#778",
     "Name": "Mimikyu",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Fairy"
   },
@@ -6605,7 +8236,9 @@ var allPokemon=[
     "Kdex": "#243",
     "Ndex": "#779",
     "Name": "Bruxish",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic"
   },
@@ -6613,7 +8246,9 @@ var allPokemon=[
     "Kdex": "#244",
     "Ndex": "#780",
     "Name": "Drampa",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Normal",
     "Type2": "Dragon"
   },
@@ -6621,7 +8256,9 @@ var allPokemon=[
     "Kdex": "#263",
     "Ndex": "#781",
     "Name": "Dhelmise",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass"
   },
@@ -6629,7 +8266,9 @@ var allPokemon=[
     "Kdex": "#271",
     "Ndex": "#782",
     "Name": "Jangmo-o",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dragon",
     "Type2": ""
   },
@@ -6637,7 +8276,9 @@ var allPokemon=[
     "Kdex": "#272",
     "Ndex": "#783",
     "Name": "Hakamo-o",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Fighting"
   },
@@ -6645,7 +8286,9 @@ var allPokemon=[
     "Kdex": "#273",
     "Ndex": "#784",
     "Name": "Kommo-o",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Dragon",
     "Type2": "Fighting"
   },
@@ -6653,7 +8296,9 @@ var allPokemon=[
     "Kdex": "#285",
     "Ndex": "#785",
     "Name": "Tapu Koko",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": "Fairy"
   },
@@ -6661,7 +8306,9 @@ var allPokemon=[
     "Kdex": "#286",
     "Ndex": "#786",
     "Name": "Tapu Lele",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy"
   },
@@ -6669,7 +8316,9 @@ var allPokemon=[
     "Kdex": "#287",
     "Ndex": "#787",
     "Name": "Tapu Bulu",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy"
   },
@@ -6677,7 +8326,9 @@ var allPokemon=[
     "Kdex": "#288",
     "Ndex": "#788",
     "Name": "Tapu Fini",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy"
   },
@@ -6685,7 +8336,9 @@ var allPokemon=[
     "Kdex": "#289",
     "Ndex": "#789",
     "Name": "Cosmog",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -6693,7 +8346,9 @@ var allPokemon=[
     "Kdex": "#290",
     "Ndex": "#790",
     "Name": "Cosmoem",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -6701,7 +8356,9 @@ var allPokemon=[
     "Kdex": "#291",
     "Ndex": "#791",
     "Name": "Solgaleo",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Steel"
   },
@@ -6709,7 +8366,9 @@ var allPokemon=[
     "Kdex": "#292",
     "Ndex": "#792",
     "Name": "Lunala",
-    "MS": "",
+		"Sprite": "",
+   
+		"MS": "",
     "Type1": "Psychic",
     "Type2": "Ghost"
   },
@@ -6717,7 +8376,9 @@ var allPokemon=[
     "Kdex": "#293",
     "Ndex": "#793",
     "Name": "Nihilego",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Poison"
   },
@@ -6725,7 +8386,9 @@ var allPokemon=[
     "Kdex": "#294",
     "Ndex": "#794",
     "Name": "Buzzwole",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fighting"
   },
@@ -6733,7 +8396,9 @@ var allPokemon=[
     "Kdex": "#295",
     "Ndex": "#795",
     "Name": "Pheromosa",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Bug",
     "Type2": "Fighting"
   },
@@ -6741,7 +8406,9 @@ var allPokemon=[
     "Kdex": "#296",
     "Ndex": "#796",
     "Name": "Xurkitree",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   },
@@ -6749,6 +8416,8 @@ var allPokemon=[
     "Kdex": "#297",
     "Ndex": "#797",
     "Name": "Celesteela",
+		"Sprite": "",
+		
     "MS": "",
     "Type1": "Steel",
     "Type2": "Flying"
@@ -6757,7 +8426,9 @@ var allPokemon=[
     "Kdex": "#298",
     "Ndex": "#798",
     "Name": "Kartana",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Grass",
     "Type2": "Steel"
   },
@@ -6765,7 +8436,9 @@ var allPokemon=[
     "Kdex": "#299",
     "Ndex": "#799",
     "Name": "Guzzlord",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon"
   },
@@ -6773,7 +8446,9 @@ var allPokemon=[
     "Kdex": "#300",
     "Ndex": "#800",
     "Name": "Necrozma",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Psychic",
     "Type2": ""
   },
@@ -6781,7 +8456,9 @@ var allPokemon=[
     "Kdex": "#301",
     "Ndex": "#801",
     "Name": "Magearna",
-    "MS": "",
+		"Sprite": "",
+ 
+		"MS": "",
     "Type1": "Steel",
     "Type2": "Fairy"
   },
@@ -6789,7 +8466,9 @@ var allPokemon=[
     "Kdex": "#302",
     "Ndex": "#802",
     "Name": "Marshadow",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Fighting",
     "Type2": "Ghost"
   },
@@ -6797,7 +8476,9 @@ var allPokemon=[
     "Kdex": "#261",
     "Ndex": "#803",
     "Name": "Poipole",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Poison",
     "Type2": ""
   },
@@ -6805,7 +8486,9 @@ var allPokemon=[
     "Kdex": "#262",
     "Ndex": "#804",
     "Name": "Naganadel",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Poison",
     "Type2": "Dragon"
   },
@@ -6813,7 +8496,9 @@ var allPokemon=[
     "Kdex": "#392",
     "Ndex": "#805",
     "Name": "Stakataka",
-    "MS": "",
+		"Sprite": "",
+
+		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel"
   },
@@ -6821,6 +8506,8 @@ var allPokemon=[
     "Kdex": "#393",
     "Ndex": "#806",
     "Name": "Blacephalon",
+		"Sprite": "",
+	
     "MS": "",
     "Type1": "Fire",
     "Type2": "Ghost"
@@ -6829,7 +8516,9 @@ var allPokemon=[
     "Kdex": "#403",
     "Ndex": "#807",
     "Name": "Zeraora",
-    "MS": "",
+		"Sprite": "",
+  
+		"MS": "",
     "Type1": "Electric",
     "Type2": ""
   }

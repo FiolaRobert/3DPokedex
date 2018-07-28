@@ -140,11 +140,38 @@ img{
 	padding: 0;
 	margin: 0;
 }
+.img-100{
+	max-height:100px;
+	background-size:contain;
+	padding: 10px;
+}
+.my-4{
+	height=4rem;
+}
 .id{
 	
 }
 .name{
 	font-weight: 700;
+}
+#pokemon-list{
+	width:100%;
+}
+#pokemon-list tr{
+	height:20px;
+}
+.table td, .table th{
+	vertical-align: middle;
+}
+th input{
+	border:none;
+	background-color: transparent;
+	color:inherit;
+	
+}
+
+th input:placeholder-shown{
+	background-color: transparent;
 }
 .sprite{
 	height: 50px;
@@ -157,56 +184,65 @@ img{
 	border-radius: 10px;
 	text-align: center;
 }
-td.Grass{
-	background-color: forestgreen;
+.type:hover{
+	color:inherit;
+	opacity: 90%;
 }
-td.Water{
-	background-color:aqua;
+.Grass{
+	background-color: #9bcc50;
 }
-td.Bug{
-	background-color: yellowgreen;
+.Water{
+	background-color:#4592C4;
 }
-td.Dark{
-	background-color:darkslategray;
+.Bug{
+	background-color: #729F3F;
 }
-td.Dragon{
-	background-color: rebeccapurple;
+.Dark{
+	background-color:#707070;
 }
-td.Electric{
+.Dragon{
+	background-color: #F16E57;
+}
+.Electric{
 	color:dimgray;
-	background-color:yellow;
+	background-color:#EED535;
 }
-td.Fighting{
-	background-color: orangered;
+.Fighting{
+	background-color: #D56723;
 }
-td.Flying{
-	background-color:skyblue;
+.Flying{
+	background-color:#3DC7EF;
 }
-td.Ghost{
-	background-color: mediumpurple;
+.Ghost{
+	background-color: #7B62A3;
 }
-td.Ground{
-	background-color:sandybrown;
+.Ground{
+	background-color:#AB9842;
 }
-td.Ice{
+.Ice{
+	background-color: #51C4E7;
+}
+.Normal{
+	background-color:#A4ACAF;
+}
+.Poison{
+	background-color: #B97FC9;
+}
+.Psychic{
+	background-color:#F366B9;
+}
+.Rock{
+	background-color: #A38C21;
+}
+.Steel{
 	color:dimgray;
-	background-color: aliceblue;
+	background-color:#9EB7B8;
 }
-td.Normal{
-	background-color:whitesmoke;
+.Fire{
+	background-color: #FD7D24;
 }
-td.Poison{
-	background-color: purple;
-}
-td.Psychic{
-	background-color:pink;
-}
-td.Rock{
-	background-color: saddlebrown;
-}
-td.Steel{
-	color:dimgray;
-	background-color:lightslategray;
+.Fairy{
+	background-color: #FDB9E9;
 }
 #pokemon-list::-webkit-scrollbar {
     visibility: hidden;

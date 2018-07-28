@@ -1,3 +1,4 @@
+
 var pokemonList=[];
 function Pokemon(id1="000", id2="000", name="", sprite="", imageURL="", type1="", type2=""){
     this.Kdex="#"+id1;
@@ -8,23 +9,26 @@ function Pokemon(id1="000", id2="000", name="", sprite="", imageURL="", type1=""
    this.Type1=type1;
     this.Type2=type2;
   };
-loadPokemon();
 
-
-function loadPokemon(){
-	openJSON();
+$(function(){
+	//openJSON();
+	//log(allPokemon);
 	displayTable(allPokemon);
-	//displayPokemon();
-}
+})
+
+
+
 function openJSON(){
 	pokemon=pokemonList;
 	pokemon.push(new Pokemon(001, 001, 'Bulbasaur', 'https://cdn.bulbagarden.net/upload/e/ec/001MS.png', '','Grass', 'Poison'));
 	return pokemon;
 }
 function displayTable(list=pokemonList){
+	log(document);
 	var table=document.getElementById('pokemon-list');
 	//grab first item id=0
 	var firstRow=document.getElementById('0');
+	
 	var current=firstRow;
 	
 	
@@ -45,7 +49,7 @@ function displayTable(list=pokemonList){
 		current=current.nextElementSibling;
 		current.innerHTML=list[i].Name;
 		
-		//Type 1
+		/*//Type 1
 		current=current.nextElementSibling;
 		current.innerHTML=list[i].Type1;
 		current.classList.add(list[i].Type1);
@@ -58,13 +62,13 @@ function displayTable(list=pokemonList){
 		}
 		else{
 			current.previousElementSibling.setAttribute('colspan','2');
-		}
+		}*/
 		
 		
 	}
 	
 	log(list);
-	table.firstElementChild.removeChild(firstRow);
+	firstRow.parentElement.removeChild(firstRow);
 	
 	//clone
 	//change values
