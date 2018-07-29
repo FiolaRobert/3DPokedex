@@ -8,8 +8,13 @@
 //moves
 ...etc-->
  <!-- Navigation -->
-    
 
+<style>
+	.card-img-top{
+		width:700px;
+		height:650px;
+	}
+</style>
     <!-- Page Content -->
     <div class="container">
 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom"><span>#151-Mew</span><span>#002-Ivysaur</span></div>
@@ -24,11 +29,16 @@
 
           <!-- Blog Post -->
           <div class="card mb-4">
-            <img class="card-img-top" src="http://placehold.it/750x650" alt="Card image cap">
+						<div id="3d" class="card-img-top" alt="Pokemon Image"></div>
             <div class="card-body">
               <h2 id='classification' class="card-title">Seed Pokémon</h2>
 							<a>Growl</a><br>
-							<a>Read</a>
+							<label for='pokemon-description'></label>Read<audio
+        id="pokemon-description"
+        controls
+        src="PokemonFiles/001/001_Description.mp3">
+        Your browser does not support the <code>audio</code> element.
+    </audio>
               <p class="card-text" id='description'>Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.</p>
               
             </div>
@@ -157,6 +167,6 @@
     </div>
     <!-- /.container -->
 
-    
+       
 
   

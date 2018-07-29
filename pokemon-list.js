@@ -11,6 +11,7 @@ function Pokemon(id1="000", id2="000", name="", sprite="", imageURL="", type1=""
   };
 
 $(function(){
+	hide((document.getElementsByClassName('loader'))[0]);
 	//openJSON();
 	//log(allPokemon);
 	displayTable(allPokemon);
@@ -43,7 +44,7 @@ function displayTable(list=pokemonList){
 		current.innerHTML=list[i].Ndex;
 		//Sprite
 		current=current.nextElementSibling;
-		current.firstElementChild.setAttribute('src',list[i].sprite);
+		current.firstElementChild.setAttribute('src',allPokemon[i].Sprite);
 	
 		//Name
 		current=current.nextElementSibling;
@@ -80,7 +81,7 @@ function displayTable(list=pokemonList){
 }
 function selectPokemon(id){
 	log(id);
-	var title=document.getElementById('title');
+	var title=document.getElementById('name');
 	title.innerHTML=allPokemon[id].Ndex+' - '+allPokemon[id].Name;
 }
 function optionList(){
@@ -104,5 +105,35 @@ function displayPokemon(id=0){
 	
 }
 function options(input){
+	var arr=matchPokemon(input);
+	var list=document.createElement('datalist');;
+	for(var i=0;i<arr.length;i++){
+		var opt=document.createElement('option');
+		var str="";
+		str+=allPokemon[arr[i]].Ndex+"-";
+		str+=allPokemon[arr[i]].Name;
+		opt.textContent(str);
+		list.append(opt);
+	}
+	return list;
+}
+//return single index of first found match
+function findPokemon(str){
+	for(var i=0;i<allPokemon.length;i++){
+		if(allPokemon[i].Name.includes(str)){
+			return i;
+		}
+	}
 	
+	return -1;
+}
+//return array of indexes for matching Pokemon
+function matchPokemon(str){
+	var arr=[];
+	for(var i=0;i<allPokemon.length;i++){
+		if(allPokemon[i].Name.includes(str) || allPokemon[i].Ndex.includes(str) || allPokemon[i].Kdex.includes(str)){
+			arr.push(i);
+		}
+	}
+	return arr;
 }

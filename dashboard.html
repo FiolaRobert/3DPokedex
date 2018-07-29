@@ -1,5 +1,5 @@
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
 		<meta name="description" content="">
@@ -12,6 +12,7 @@
  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
 		<script src="https://unpkg.com/pokeapi-js-wrapper/dist/index.js"></script>
 <script> const P = new Pokedex.Pokedex(); </script>
+		
 
 
     <title>3D Pokedex</title>
@@ -24,6 +25,14 @@
 		
   </head>
   <body>
+		<div class="loader"><div class="center-on-page">
+  
+  <div class="pokeball">
+    <div class="pokeball__button"></div>
+  </div>
+  
+</div></div>
+		<div class='page Hide'>
     <div w3-include-html="topnav.html"></div>
 
     <div class="container-fluid ">
@@ -53,7 +62,7 @@
               <tbody>
                 <tr id='0' onclick="selectPokemon(this.id)">
 										<td class='id'>#</td>
-                    <td class='sprite'><img src="https://cdn.bulbagarden.net/upload/e/ec/001MS.png"></td>
+                    <td class='sprite'><img src=""></td>
                     <td class='name'>Pokemon</td>
 								</tr>
               </tbody>
@@ -97,5 +106,11 @@
 		<script>
 		includeHTML();
 		</script>
+		  <script src="three-js/Three.js"></script>
+    <script src="Detector.js"></script>
+    <script src="OrbitControls.js"></script>
+    <script src="OBJLoader.js"></script>
+    <script src="MTLLoader.js"></script>
+		<script src="3d.js"></script></div>
   </body>
 </html>
