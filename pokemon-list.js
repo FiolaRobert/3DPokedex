@@ -21,7 +21,7 @@ $(function(){
 
 function openJSON(){
 	pokemon=pokemonList;
-	pokemon.push(new Pokemon(001, 001, 'Bulbasaur', 'https://cdn.bulbagarden.net/upload/e/ec/001MS.png', '','Grass', 'Poison'));
+	//pokemon.push(new Pokemon(001, 001, 'Bulbasaur', 'https://cdn.bulbagarden.net/upload/e/ec/001MS.png', '','Grass', 'Poison'));
 	return pokemon;
 }
 function displayTable(list=pokemonList){
@@ -44,8 +44,11 @@ function displayTable(list=pokemonList){
 		current.innerHTML=list[i].Ndex;
 		//Sprite
 		current=current.nextElementSibling;
-		current.firstElementChild.setAttribute('src',allPokemon[i].Sprite);
-	
+		try{
+			current.firstElementChild.setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(i+1)+'.png');
+		}catch(err){
+			
+		}
 		//Name
 		current=current.nextElementSibling;
 		current.innerHTML=list[i].Name;
@@ -81,8 +84,17 @@ function displayTable(list=pokemonList){
 }
 function selectPokemon(id){
 	log(id);
-	var title=document.getElementById('name');
-	title.innerHTML=allPokemon[id].Ndex+' - '+allPokemon[id].Name;
+	document.getElementById('name').innerHTML=allPokemon[id].Name;
+	document.getElementById('number').innerHTML=allPokemon[id].Ndex
+	var type1=document.getElementById('type1');
+	var type=allPokemon[i].Type1;
+	type1.innerHTML=type;
+	type1.classList.add(type);
+	var type2=document.getElementById('type2');
+	type=allPokemon[i].Type2;
+	type2.innerHTML=type;
+	type2.classList.add(type);
+	
 }
 function optionList(){
 	var dataList=document.getElementById('pokelist');

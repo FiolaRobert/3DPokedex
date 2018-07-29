@@ -68,7 +68,7 @@ body {
  */
 
 [role="main"] {
-  padding-top: 48px; /* Space for fixed navbar */
+  padding-top: 3rem; /* Space for fixed navbar */
 }
 
 /*
@@ -142,7 +142,7 @@ img{
 	margin: 0;
 }
 .img-100{
-	max-height:100px;
+	max-height:3rem;
 	background-size:contain;
 	padding: 10px;
 }
@@ -183,10 +183,12 @@ th input:placeholder-shown{
 .sprite img{
  height:100%;
 }
+
 .type{
 	color: floralwhite;
 	border-radius: 10px;
 	text-align: center;
+	margin: 1px;
 }
 .type:hover{
 	color:inherit;
