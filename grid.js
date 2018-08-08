@@ -27,14 +27,17 @@ function displayGrid(list){
 	//console.log(list);
 	var grid=document.getElementById('pokemon-list');
 	//grab first item id=0
-	var firstRow=document.getElementById('0');
+	var template=document.getElementById('template');
 	
-	var current=firstRow;
+	var current;
 	
 	for(var i=0;i<list.length;i++){
-		current=firstRow.cloneNode(true);
-		grid.appendChild(current);
+		var row=template.content.cloneNode(true);
+		
+		current=row.firstElementChild;
 		current.id=i;
+		grid.appendChild(row);
+		
 		var image=current.firstElementChild.firstElementChild;
 		image.setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(i+1)+'.png');
 		image.nextElementSibling.firstElementChild.firstElementChild.textContent=list[i].Name;
@@ -42,7 +45,7 @@ function displayGrid(list){
 	}
 }
 function selectPokemon(id){
-	
+	window.open('dashboard.html?id='+(Number.parseInt(id)+1),'_self');
 }
 //>>filter
 

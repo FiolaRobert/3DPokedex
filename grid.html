@@ -70,7 +70,7 @@
         <div class="container">
 
           <div class="row" id="pokemon-list">
-            <div class="col-md-2" id="0">
+            <template id="template"><div class="col-md-2" id="0">
               <div class="card mb-2 shadow-sm">
                 <img class="card-img-top" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Card image cap">
                 <div class="full card-body bottom-left">
@@ -78,13 +78,14 @@
                   <div class=" d-flex justify-content-between align-items-center ">
 										 <p class="card-text">Bulbasaur</p>
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-secondary " onclick="window.open('dashboard.html?id='+this.parentElement.parentElement.parentElement.parentElement.parentElement.id,'_self')">View</button>
+                      <button type="button" class="btn btn-sm btn-secondary " onclick="selectPokemon(this.parentElement.parentElement.parentElement.parentElement.parentElement.id)">View</button>
                     </div>
                    
                   </div>
                 </div>
               </div>
             </div>
+						</template>
            
                 
           </div>

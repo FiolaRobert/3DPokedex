@@ -36,7 +36,7 @@ $(function(){
 			}
 		});
 		if(args[0]!="")
-		selectPokemon(args[args.indexOf('id')+1]);
+		selectPokemon(args[args.indexOf('id')+1]-1);
 	}
 });
 
@@ -48,18 +48,18 @@ function openJSON(){
 	return pokemon;
 }
 function displayTable(list=pokemonList){
-	console.log(document);
+	
 	var table=document.getElementById('pokemon-list');
 	//grab first item id=0
-	var firstRow=document.getElementById('0');
+	var template=document.getElementById('template');
 	
-	var current=firstRow;
+	var current;
 	
 	
 	for(var i=0;i<list.length;i++){
-		
-		current=firstRow.cloneNode(true);
-		table.appendChild(current);
+		var row=template.content.cloneNode(true);
+		current=row.firstElementChild;
+		table.appendChild(row);
 		
 		current.id=i;
 		//ID
@@ -68,7 +68,7 @@ function displayTable(list=pokemonList){
 		//Sprite
 		current=current.nextElementSibling;
 		try{
-			current.firstElementChild.setAttribute('src',sprite(i));
+			current.firstElementChild.setAttribute('src',sprite(i+1));
 		}catch(err){
 			
 		}
@@ -94,8 +94,6 @@ function displayTable(list=pokemonList){
 		
 	}
 	
-	console.log(list);
-	firstRow.parentElement.removeChild(firstRow);
 	
 	//clone
 	//change values
@@ -113,9 +111,9 @@ function selectPokemon(id){
 	//name & id
 	console.log(id);
 	
-	document.getElementById('sprite').setAttribute('src',sprite(id));
+	document.getElementById('sprite').setAttribute('src',sprite(id+1));
 	document.getElementById('name').innerHTML=allPokemon[id].Name;
-	document.getElementById('number').innerHTML=allPokemon[id].Ndex
+	document.getElementById('number').innerHTML=allPokemon[id].Ndex;
 	
 	//types
 	var type1=document.getElementById('type1');
@@ -124,8 +122,9 @@ function selectPokemon(id){
 	type1.classList.add(type);
 	
 	var type2=document.getElementById('type2');
-	type2.classList.remove("Hide");
+	
 	if(allPokemon[id].Type2!=""){
+		type2.classList.remove("Hide");
 		type=allPokemon[id].Type2;
 		type2.innerHTML=type;
 		type2.classList.add(type);}
@@ -137,7 +136,7 @@ function selectPokemon(id){
 	//img
 	var num=Number.parseInt(id);
 	num++;
-	document.getElementById('sprite').setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+num+'.png');
+	
 	
 	//pokemon genus
 	var genus="";
@@ -158,7 +157,7 @@ function selectPokemon(id){
 	//highlight pokemon in table
 }
 function sprite(id){
-	return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(id+1)+'.png';
+	return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(id)+'.png';
 }
 function optionList(){
 	var dataList=document.getElementById('pokelist');
