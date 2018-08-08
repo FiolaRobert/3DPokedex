@@ -15,7 +15,25 @@ $(function(){
 	//openJSON();
 	//log(allPokemon);
 	displayTable(allPokemon);
-})
+	
+	var searchbars=document.getElementsByClassName('search');
+	
+	for(var i=0;i<searchbars.length;i++){
+		searchbars[i].addEventListener('keypress',function(e){
+			var keyCode = e.keyCode;
+			console.log(e);
+    if(keyCode == 13){	
+				var str=e.value;
+			console.log(str);
+				selectPokemon(findPokemon(str));
+		}
+			else{
+				document.body.removeChild(document.getElementById('pokelist'));
+				document.body.append(options(e.value));
+			}
+		});
+	}
+});
 
 
 
@@ -45,7 +63,7 @@ function displayTable(list=pokemonList){
 		//Sprite
 		current=current.nextElementSibling;
 		try{
-			current.firstElementChild.setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(i+1)+'.png');
+			current.firstElementChild.setAttribute('src',sprite(i));
 		}catch(err){
 			
 		}
@@ -82,10 +100,19 @@ function displayTable(list=pokemonList){
 	
 
 }
+//change display of document to new pokemon with passed 'id'
 function selectPokemon(id){
+	jQuery.get( "http://pokeapi.co/api/v2/pokemon/"+id+"/", function( data ) {
+  alert( "Data Loaded: " + data );
+});
+	//name & id
 	log(id);
+	
+	document.getElementById('sprite').setAttribute('src',sprite(id));
 	document.getElementById('name').innerHTML=allPokemon[id].Name;
 	document.getElementById('number').innerHTML=allPokemon[id].Ndex
+	
+	//types
 	var type1=document.getElementById('type1');
 	var type=allPokemon[i].Type1;
 	type1.innerHTML=type;
@@ -95,10 +122,34 @@ function selectPokemon(id){
 	type2.innerHTML=type;
 	type2.classList.add(type);
 	
+	//img
+	document.getElementById('sprite').setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(parseInt(id)+1)+'.png');
+	
+	//pokemon genus
+	var genus="";
+	document.getElementById('classification').textContent=genus;
+	
+	//description
+	
+	//stats
+	
+	//evolutions
+	
+	//previous & next pokemons
+	
+	//audio
+	
+	//3d
+	
+	
+}
+function sprite(id){
+	return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(id+1)+'.png';
 }
 function optionList(){
 	var dataList=document.getElementById('pokelist');
     dataList.innerHTML="";
+	
     for(var i=0;i<pokemonList.length;i++)
    { 
        var option = document.createElement('option');
@@ -118,7 +169,8 @@ function displayPokemon(id=0){
 }
 function options(input){
 	var arr=matchPokemon(input);
-	var list=document.createElement('datalist');;
+	var list=document.createElement('datalist');
+	list.id='pokelist';
 	for(var i=0;i<arr.length;i++){
 		var opt=document.createElement('option');
 		var str="";

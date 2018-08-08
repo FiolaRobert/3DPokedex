@@ -1,3 +1,5 @@
+
+
 var allPokemon=[
   {
     "Kdex": "#001",
@@ -8,7 +10,8 @@ var allPokemon=[
 		"MS": "https://archives.bulbagarden.net/media/upload/d/d4/001Bulbasaur_3D_Pro.png",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":"Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
 		
   },
   {
@@ -20,7 +23,8 @@ var allPokemon=[
 		"MS": "https://archives.bulbagarden.net/media/upload/5/52/GO002.png",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -32,7 +36,8 @@ var allPokemon=[
 		"MS": "https://archives.bulbagarden.net/media/upload/9/97/GO003.png",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -44,7 +49,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -56,7 +62,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -67,7 +74,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -78,7 +86,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -89,7 +98,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -101,7 +111,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -113,7 +124,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -125,7 +137,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -137,7 +150,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -149,7 +163,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -161,7 +176,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -173,7 +189,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -185,7 +202,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -197,7 +215,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -209,7 +228,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -221,7 +241,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -233,7 +254,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -245,7 +267,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -257,7 +280,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -269,7 +293,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -281,7 +306,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -293,7 +319,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -305,7 +332,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -317,7 +345,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -329,7 +358,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -341,7 +371,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -353,7 +384,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -365,7 +397,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -377,7 +410,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -389,7 +423,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -401,7 +436,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -413,7 +449,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -425,7 +462,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -437,7 +475,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -449,7 +488,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -461,7 +501,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -473,7 +514,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -485,7 +527,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -497,7 +540,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -509,7 +553,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -521,7 +566,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -533,7 +579,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -545,7 +592,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -557,7 +605,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -569,7 +618,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -581,7 +631,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -593,7 +644,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -605,7 +657,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -617,7 +670,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -629,7 +683,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -641,7 +696,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -653,7 +709,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -665,7 +722,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -677,7 +735,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -689,7 +748,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -701,7 +761,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -713,7 +774,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -725,7 +787,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -737,7 +800,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -748,7 +812,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -760,7 +825,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -772,7 +838,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -784,7 +851,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -796,7 +864,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -808,7 +877,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -820,7 +890,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -832,7 +903,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -844,7 +916,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -856,7 +929,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -868,7 +942,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Water",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -880,7 +955,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -892,7 +968,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -904,7 +981,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -916,7 +994,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -928,7 +1007,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -940,7 +1020,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -952,7 +1033,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -964,7 +1046,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -976,7 +1059,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -988,7 +1072,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1000,7 +1085,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1012,7 +1098,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1023,7 +1110,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1035,7 +1123,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1047,7 +1136,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1058,7 +1148,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1070,7 +1161,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1082,7 +1174,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1094,7 +1187,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1106,7 +1200,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1118,7 +1213,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1129,7 +1225,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Rock",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1141,7 +1238,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1153,7 +1251,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1165,7 +1264,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1177,7 +1277,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1189,7 +1290,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1201,7 +1303,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1213,7 +1316,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1225,7 +1329,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1237,7 +1342,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1249,7 +1355,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1261,7 +1368,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1273,7 +1381,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1285,7 +1394,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1297,7 +1407,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1309,7 +1420,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1321,7 +1433,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1333,7 +1446,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1345,7 +1459,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1357,7 +1472,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1369,7 +1485,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1381,7 +1498,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1393,7 +1511,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1405,7 +1524,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1417,7 +1537,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1429,7 +1550,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1441,7 +1563,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1453,7 +1576,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1465,7 +1589,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1476,7 +1601,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Ice",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1488,7 +1614,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1500,7 +1627,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1512,7 +1640,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1524,7 +1653,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1536,7 +1666,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1548,7 +1679,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1560,7 +1692,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1572,7 +1705,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1584,7 +1718,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1596,7 +1731,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1608,7 +1744,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1620,7 +1757,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1632,7 +1770,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1644,7 +1783,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1656,7 +1796,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1668,7 +1809,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1680,7 +1822,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1692,7 +1835,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Rock",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1704,7 +1848,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1716,7 +1861,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1728,7 +1874,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1740,7 +1887,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1752,7 +1900,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1764,7 +1913,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1776,7 +1926,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1788,7 +1939,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1799,7 +1951,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1811,7 +1964,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1823,7 +1977,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1835,7 +1990,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1847,7 +2003,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1859,7 +2016,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1871,7 +2029,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1883,7 +2042,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1895,7 +2055,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1907,7 +2068,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1919,7 +2081,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1931,7 +2094,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1943,7 +2107,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1955,7 +2120,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1967,7 +2133,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1979,7 +2146,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -1991,7 +2159,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2003,7 +2172,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2015,7 +2185,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2027,7 +2198,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2039,7 +2211,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2051,7 +2224,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2063,7 +2237,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2075,7 +2250,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2087,7 +2263,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2099,7 +2276,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2110,7 +2288,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Psychic",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2121,7 +2300,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Psychic",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2133,7 +2313,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2145,7 +2326,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2157,7 +2339,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2169,7 +2352,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2181,7 +2365,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2193,7 +2378,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2205,7 +2391,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2217,7 +2404,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2229,7 +2417,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2241,7 +2430,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2253,7 +2443,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2265,7 +2456,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2277,7 +2469,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2289,7 +2482,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2301,7 +2495,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2313,7 +2508,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2325,7 +2521,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2337,7 +2534,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2349,7 +2547,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2361,7 +2560,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2373,7 +2573,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2385,7 +2586,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2397,7 +2599,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2409,7 +2612,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2421,7 +2625,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2433,7 +2638,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2445,7 +2651,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2457,7 +2664,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2469,7 +2677,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2481,7 +2690,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2493,7 +2703,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2505,7 +2716,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2517,7 +2729,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2529,7 +2742,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2541,7 +2755,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2553,7 +2768,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2565,7 +2781,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2577,7 +2794,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2589,7 +2807,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2601,7 +2820,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2613,7 +2833,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2625,7 +2846,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2637,7 +2859,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2649,7 +2872,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2661,7 +2885,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2673,7 +2898,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2685,7 +2911,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2697,7 +2924,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2709,7 +2937,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2721,7 +2950,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2733,7 +2963,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2745,7 +2976,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2757,7 +2989,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2769,7 +3002,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2781,7 +3015,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2793,7 +3028,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2805,7 +3041,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2817,7 +3054,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2829,7 +3067,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2841,7 +3080,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2853,7 +3093,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2865,7 +3106,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2877,7 +3119,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2889,7 +3132,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2901,7 +3145,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2913,7 +3158,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2925,7 +3171,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2937,7 +3184,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2949,7 +3197,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2961,7 +3210,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2973,7 +3223,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2985,7 +3236,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -2997,7 +3249,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3009,7 +3262,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3021,7 +3275,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3033,7 +3288,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3045,7 +3301,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3057,7 +3314,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3069,7 +3327,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3081,7 +3340,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3093,7 +3353,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3105,7 +3366,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3117,7 +3379,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3129,7 +3392,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3141,7 +3405,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3153,7 +3418,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3165,7 +3431,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3177,7 +3444,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3189,7 +3457,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3201,7 +3470,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3213,7 +3483,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3225,7 +3496,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3237,7 +3509,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3249,7 +3522,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3261,7 +3535,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3273,7 +3548,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3285,7 +3561,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3297,7 +3574,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3309,7 +3587,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3321,7 +3600,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3333,7 +3613,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3345,7 +3626,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3357,7 +3639,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3369,7 +3652,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3381,7 +3665,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3393,7 +3678,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3405,7 +3691,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3417,7 +3704,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3429,7 +3717,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3441,7 +3730,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3453,7 +3743,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3465,7 +3756,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3477,7 +3769,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3489,7 +3782,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3501,7 +3795,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3513,7 +3808,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3525,7 +3821,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3537,7 +3834,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3549,7 +3847,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3561,7 +3860,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3573,7 +3873,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3585,7 +3886,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3597,7 +3899,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3609,7 +3912,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3621,7 +3925,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3632,7 +3937,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Steel",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3644,7 +3950,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3656,7 +3963,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3668,7 +3976,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3680,7 +3989,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3692,7 +4002,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3704,7 +4015,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3716,7 +4028,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3728,7 +4041,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3740,7 +4054,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3752,7 +4067,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3764,7 +4080,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3776,7 +4093,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3788,7 +4106,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3800,7 +4119,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3812,7 +4132,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3824,7 +4145,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3836,7 +4158,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3848,7 +4171,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3860,7 +4184,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3872,7 +4197,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3884,7 +4210,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3896,7 +4223,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3908,7 +4236,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3920,7 +4249,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3932,7 +4262,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3944,7 +4275,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3956,7 +4288,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3968,7 +4301,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3980,7 +4314,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -3992,7 +4327,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4004,7 +4340,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4016,7 +4353,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4028,7 +4366,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4040,7 +4379,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4052,7 +4392,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4064,7 +4405,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4076,7 +4418,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4088,7 +4431,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4100,7 +4444,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4112,7 +4457,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4124,7 +4470,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4136,7 +4483,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4148,7 +4496,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Bug",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4160,7 +4509,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Bug",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4172,7 +4522,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4184,7 +4535,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4196,7 +4548,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4208,7 +4561,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4220,7 +4574,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4232,7 +4587,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4244,7 +4600,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4256,7 +4613,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4268,7 +4626,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4280,7 +4639,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4292,7 +4652,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4304,7 +4665,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4316,7 +4678,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4328,7 +4691,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4340,7 +4704,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4352,7 +4717,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4364,7 +4730,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4376,7 +4743,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4388,7 +4756,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4400,7 +4769,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4412,7 +4782,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4424,7 +4795,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4436,7 +4808,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4448,7 +4821,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4460,7 +4834,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4472,7 +4847,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4484,7 +4860,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4496,7 +4873,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4508,7 +4886,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4520,7 +4899,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4532,7 +4912,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4544,7 +4925,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4556,7 +4938,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4568,7 +4951,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4580,7 +4964,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4592,7 +4977,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4604,7 +4990,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4616,7 +5003,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4628,7 +5016,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4640,7 +5029,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4652,7 +5042,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4664,7 +5055,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4676,7 +5068,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4688,7 +5081,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4700,7 +5094,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4712,7 +5107,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4724,7 +5120,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4736,7 +5133,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4748,7 +5146,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4760,7 +5159,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4772,7 +5172,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4784,7 +5185,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4796,7 +5198,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4808,7 +5211,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4820,7 +5224,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4832,7 +5237,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4844,7 +5250,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4856,7 +5263,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4868,7 +5276,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4880,7 +5289,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4892,7 +5302,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4904,7 +5315,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4916,7 +5328,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4928,7 +5341,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4940,7 +5354,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4952,7 +5367,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4964,7 +5380,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4976,7 +5393,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -4988,7 +5406,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5000,7 +5419,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5012,7 +5432,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5024,7 +5445,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5036,7 +5458,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5048,7 +5471,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5060,7 +5484,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5072,7 +5497,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5084,7 +5510,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5096,7 +5523,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5108,7 +5536,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5120,7 +5549,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5132,7 +5562,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5144,7 +5575,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5156,7 +5588,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5168,7 +5601,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5180,7 +5614,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5192,7 +5627,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5204,7 +5640,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5216,7 +5653,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5228,7 +5666,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5240,7 +5679,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5252,7 +5692,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5264,7 +5705,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5276,7 +5718,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5288,7 +5731,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5300,7 +5744,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5312,7 +5757,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5324,7 +5770,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5336,7 +5783,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5348,7 +5796,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5360,7 +5809,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5372,7 +5822,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5384,7 +5835,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5396,7 +5848,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Bug",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5408,7 +5861,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5420,7 +5874,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5432,7 +5887,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5444,7 +5900,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5456,7 +5913,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5468,7 +5926,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5480,7 +5939,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5492,7 +5952,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5504,7 +5965,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5516,7 +5978,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5528,7 +5991,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5540,7 +6004,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5552,7 +6017,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5564,7 +6030,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5576,7 +6043,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5588,7 +6056,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5600,7 +6069,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5612,7 +6082,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5624,7 +6095,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5636,7 +6108,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5648,7 +6121,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5660,7 +6134,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5672,7 +6147,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5684,7 +6160,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5696,7 +6173,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5708,7 +6186,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5720,7 +6199,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5732,7 +6212,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5743,7 +6224,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5755,7 +6237,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5767,7 +6250,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5779,7 +6263,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5791,7 +6276,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5803,7 +6289,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5815,7 +6302,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5827,7 +6315,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5839,7 +6328,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5851,7 +6341,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5863,7 +6354,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5875,7 +6367,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5887,7 +6380,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5899,7 +6393,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   
@@ -5912,7 +6407,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5924,7 +6420,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5936,7 +6433,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5948,7 +6446,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5960,7 +6459,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5972,7 +6472,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5984,7 +6485,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -5996,7 +6498,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6008,7 +6511,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6020,7 +6524,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6032,7 +6537,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6044,7 +6550,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6056,7 +6563,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6068,7 +6576,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6080,7 +6589,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6092,7 +6602,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6104,7 +6615,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6116,7 +6628,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6128,7 +6641,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6140,7 +6654,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6152,7 +6667,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6164,7 +6680,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6176,7 +6693,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6188,7 +6706,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6200,7 +6719,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6212,7 +6732,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6224,7 +6745,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6236,7 +6758,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6248,7 +6771,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6260,7 +6784,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6272,7 +6797,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6284,7 +6810,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6296,7 +6823,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6308,7 +6836,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6320,7 +6849,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6332,7 +6862,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6344,7 +6875,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6356,7 +6888,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6368,7 +6901,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6380,7 +6914,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6392,7 +6927,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6404,7 +6940,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6416,7 +6953,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6428,7 +6966,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Water",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6440,7 +6979,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6451,7 +6991,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6463,7 +7004,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6475,7 +7017,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6487,7 +7030,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6499,7 +7043,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6511,7 +7056,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6523,7 +7069,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6535,7 +7082,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6547,7 +7095,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Grass",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6559,7 +7108,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6571,7 +7121,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6583,7 +7134,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6595,7 +7147,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6607,7 +7160,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6619,7 +7173,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Ground",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6631,7 +7186,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6643,7 +7199,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6655,7 +7212,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6667,7 +7225,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6679,7 +7238,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6691,7 +7251,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6703,7 +7264,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6715,7 +7277,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6727,7 +7290,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6739,7 +7303,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Ghost",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6751,7 +7316,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6763,7 +7329,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Water",
     "Type2": "Rock",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6775,7 +7342,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6787,7 +7355,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6799,7 +7368,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6811,7 +7381,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6823,7 +7394,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6835,7 +7407,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6847,7 +7420,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6859,7 +7433,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6871,7 +7446,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6883,7 +7459,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6895,7 +7472,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6907,7 +7485,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6919,7 +7498,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6931,7 +7511,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6943,7 +7524,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6955,7 +7537,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6967,7 +7550,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6979,7 +7563,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -6991,7 +7576,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7003,7 +7589,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7015,7 +7602,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7027,7 +7615,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7039,7 +7628,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7051,7 +7641,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7063,7 +7654,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7075,7 +7667,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7087,7 +7680,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7099,7 +7693,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7111,7 +7706,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7123,7 +7719,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7135,7 +7732,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7147,7 +7745,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7159,7 +7758,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Grass",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7171,7 +7771,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7183,7 +7784,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7195,7 +7797,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7207,7 +7810,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7219,7 +7823,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7231,7 +7836,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7243,7 +7849,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7255,7 +7862,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7267,7 +7875,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7279,7 +7888,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7291,7 +7901,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Ghost",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7302,7 +7913,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7314,7 +7926,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7326,7 +7939,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7338,7 +7952,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7350,7 +7965,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7362,7 +7978,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7374,7 +7991,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7386,7 +8004,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7398,7 +8017,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7410,7 +8030,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7422,7 +8043,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7434,7 +8056,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7446,7 +8069,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7458,7 +8082,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7470,7 +8095,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7482,7 +8108,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7494,7 +8121,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7506,7 +8134,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7518,7 +8147,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7530,7 +8160,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7542,7 +8173,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7554,7 +8186,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7566,7 +8199,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7578,7 +8212,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7590,7 +8225,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7602,7 +8238,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7614,7 +8251,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7626,7 +8264,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7638,7 +8277,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7650,7 +8290,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7662,7 +8303,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7674,7 +8316,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Flying",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7686,7 +8329,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7698,7 +8342,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7710,7 +8355,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7722,7 +8368,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7734,7 +8381,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7746,7 +8394,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7758,7 +8407,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7770,7 +8420,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7782,7 +8433,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7794,7 +8446,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7806,7 +8459,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Grass",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7818,7 +8472,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7830,7 +8485,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7842,7 +8498,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7854,7 +8511,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7866,7 +8524,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7878,7 +8537,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7890,7 +8550,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7902,7 +8563,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7914,7 +8576,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7925,7 +8588,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7937,7 +8601,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7949,7 +8614,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7961,7 +8627,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7973,7 +8640,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7985,7 +8653,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Normal",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -7997,7 +8666,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Normal",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8009,7 +8679,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8021,7 +8692,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8033,7 +8705,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8045,7 +8718,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8057,7 +8731,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8069,7 +8744,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8081,7 +8757,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8093,7 +8770,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8105,7 +8783,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8117,7 +8796,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8129,7 +8809,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8141,7 +8822,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8153,7 +8835,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8165,7 +8848,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8177,7 +8861,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8189,7 +8874,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8201,7 +8887,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8213,7 +8900,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8225,7 +8913,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8237,7 +8926,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8249,7 +8939,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Rock",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8261,7 +8952,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8273,7 +8965,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8285,7 +8978,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8297,7 +8991,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8309,7 +9004,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Electric",
     "Type2": "Normal",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8321,7 +9017,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Normal",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8333,7 +9030,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8345,7 +9043,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8357,7 +9056,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8369,7 +9069,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8381,7 +9082,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8393,7 +9095,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8405,7 +9108,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8417,7 +9121,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8429,7 +9134,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8441,7 +9147,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8453,7 +9160,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8465,7 +9173,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8477,7 +9186,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8489,7 +9199,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8501,7 +9212,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8513,7 +9225,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8525,7 +9238,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8537,7 +9251,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ice",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8549,7 +9264,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Flying",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8561,7 +9277,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Flying",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8573,7 +9290,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8585,7 +9303,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8597,7 +9316,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8609,7 +9329,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8621,19 +9342,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
-		
-  },
-  {
-    "Kdex": "#152Ce",
-    "Ndex": "#720",
-    "Name": "Hoopa",
-		"Sprite": "",
-    
-		"MS": "",
-    "Type1": "Psychic",
-    "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8645,7 +9355,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8657,7 +9368,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8669,7 +9381,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8681,7 +9394,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8693,7 +9407,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8705,7 +9420,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8717,7 +9433,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "Dark",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8729,7 +9446,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8741,7 +9459,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8753,7 +9472,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8765,7 +9485,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8777,7 +9498,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8789,7 +9511,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8801,7 +9524,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8813,7 +9537,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8825,7 +9550,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8837,7 +9563,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8849,7 +9576,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Electric",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8861,7 +9589,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8872,7 +9601,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fighting",
     "Type2": "Ice",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8884,7 +9614,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fire",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8896,7 +9627,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8908,7 +9640,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8920,7 +9653,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8932,7 +9666,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8944,7 +9679,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8956,7 +9692,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8968,7 +9705,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8980,7 +9718,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -8992,7 +9731,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ground",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9004,7 +9744,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Bug",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9016,7 +9757,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Bug",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9028,7 +9770,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9040,7 +9783,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9052,7 +9796,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9064,7 +9809,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9076,7 +9822,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9088,7 +9835,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Fire",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9100,7 +9848,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9112,7 +9861,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9124,7 +9874,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9136,7 +9887,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9148,7 +9900,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9160,7 +9913,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fairy",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9172,7 +9926,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9184,7 +9939,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9196,7 +9952,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9208,7 +9965,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Water",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9220,7 +9978,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9232,7 +9991,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Ground",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9244,7 +10004,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9256,7 +10017,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9268,7 +10030,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9280,7 +10043,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9292,7 +10056,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9304,7 +10069,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9316,7 +10082,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Electric",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9328,7 +10095,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9340,7 +10108,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Psychic",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9352,7 +10121,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Normal",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9364,7 +10134,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Ghost",
     "Type2": "Grass",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9376,7 +10147,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9388,7 +10160,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9400,7 +10173,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dragon",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9412,7 +10186,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9424,7 +10199,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9436,7 +10212,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9448,7 +10225,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Water",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9460,7 +10238,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9472,7 +10251,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9484,7 +10264,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9496,7 +10277,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9508,7 +10290,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Poison",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9520,7 +10303,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9532,7 +10316,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Bug",
     "Type2": "Fighting",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9544,7 +10329,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9556,7 +10342,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Steel",
     "Type2": "Flying",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9568,7 +10355,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Grass",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9580,7 +10368,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Dark",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9592,7 +10381,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Psychic",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9604,7 +10394,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Steel",
     "Type2": "Fairy",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9616,7 +10407,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Fighting",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9628,7 +10420,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9640,7 +10433,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Poison",
     "Type2": "Dragon",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+		"Description":""
 		
   },
   {
@@ -9652,7 +10446,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Rock",
     "Type2": "Steel",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+			"Description":""
 		
   },
   {
@@ -9664,7 +10459,8 @@ var allPokemon=[
     "MS": "",
     "Type1": "Fire",
     "Type2": "Ghost",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+			"Description":""
 		
   },
   {
@@ -9676,7 +10472,8 @@ var allPokemon=[
 		"MS": "",
     "Type1": "Electric",
     "Type2": "",
-		"Audio": "PokemonFiles/001/001_Description.mp3"
+		"Audio": "PokemonFiles/001/001_Description.mp3",
+			"Description":""
 		
   }
 ]

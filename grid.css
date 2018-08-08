@@ -1,0 +1,137 @@
+/*.container {
+    position: relative;
+    text-align: center;
+    color: white;
+		max-width: 70%;
+		padding: 0;
+}*/
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+p{
+	
+	line-height: 2em;
+}
+.card-body{
+	padding: 5px;
+	background-color: rgba(100,100,100,0.5);
+}
+.card-text{
+	color: white;
+	
+	text-shadow: 1px 1px 2px black;
+}
+.card-img-top{
+	font-size: 3rem;
+	min-height: 100px;
+	min-width: 100px;
+}
+.full{
+	width: 100%;
+}
+.Hide{
+	display: none;
+}
+/* Poké Styles */
+.pokeball {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #fff;
+  border: 10px solid #000;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: inset -10px 10px 0 10px #ccc;
+  animation: fall .25s ease-in-out,
+             shake 1.25s cubic-bezier(.36,.07,.19,.97) 3;
+}
+.pokeball::before,
+.pokeball::after {
+  content:"";
+  position: absolute;
+}
+.pokeball::before {
+  background: red;
+  width: 100%;
+  height: 50%;
+}
+.pokeball::after {
+  top: calc(50% - 10px);
+  width: 100%;
+  height: 20px;
+  background: #000;
+}
+.pokeball__button {
+  position: absolute;
+  top: calc(50% - 30px);
+  left: calc(50% - 30px);
+  width: 60px;
+  height: 60px;
+  background: #7f8c8d;
+  border: 10px solid #fff;
+  border-radius: 50%;
+  z-index: 10;
+  box-shadow: 0 0 0 10px black;
+  animation: blink .5s alternate 7;
+}
+#threed{
+	overflow:hidden;
+}
+/* Animation */
+@keyframes blink {
+  from { background: #eee;}
+  to { background: #e74c3c; }
+}
+@keyframes shake {
+  0 { transform: translate(0, 0) rotate(0); }
+  20% { transform: translate(-10px, 0) rotate(-20deg); }
+  30% { transform: translate(10px, 0) rotate(20deg); }
+  50% { transform: translate(-10px, 0) rotate(-10deg); }
+  60% { transform: translate(10px, 0) rotate(10deg); }
+  100% { transform: translate(0, 0) rotate(0); }
+}
+@keyframes fall {
+  0% { top: -200px }
+  60% { top: 0 }
+  80% { top: -20px }
+  100% { top: 0 }
+}
+.loader{
+	z-index: ;
+	width:100%;
+	height: 100%;
+	background-color: white;
+}

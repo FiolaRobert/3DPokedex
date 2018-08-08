@@ -11,8 +11,8 @@
 
 <style>
 	.card-img-top{
-		width:700px;
-		height:650px;
+		width:300px;
+		height:200px;
 	}
 </style>
     <!-- Page Content -->
@@ -23,17 +23,17 @@
         <!-- Blog Entries Column -->
         <div class="col-md-8">
 
-          <h1  class="my-4"><img src="pokeball2.png" class='img img-100'><span id='name'>Bulbasaur</span>	
+          <h1  class="my-4"><img id='sprite' src="pokeball2.png" class='img img-100'><span id='name'>Bulbasaur</span>	
             <small id='number'>#001</small>
           </h1>
 
           <!-- Blog Post -->
           <div class="card mb-4">
-						<div id="3d" class="card-img-top" alt="Pokemon Image"></div>
+						<div id="threeD" class="card-img-top" alt="Pokemon Image"></div>
             <div class="card-body">
               <h2 id='classification' class="card-title">Seed Pokémon</h2>
 							<a>Growl</a><br>
-							<label for='pokemon-description'></label>Read<audio
+							<label for='pokemon-description'>Read</label><audio
         id="pokemon-description"
         controls
         src="PokemonFiles/001/001_Description.mp3">
@@ -60,7 +60,7 @@
             <h5 class="card-header">Search</h5>
             <div class="card-body">
               <div class="input-group">
-                <input type="text" class="form-control" placeholder="Search for...">
+                <input type="text" class="form-control" placeholder="Search for..." list="searchlist">
                 <span class="input-group-btn">
                   <button class="btn btn-secondary" type="button">Go!</button>
                 </span>
