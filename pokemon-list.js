@@ -9,8 +9,11 @@ function Pokemon(id1="000", id2="000", name="", sprite="", imageURL="", type1=""
    this.Type1=type1;
     this.Type2=type2;
   };
-
+var args;
 $(function(){
+	args=document.location.search.replace('?','').split('=');
+	
+		
 	hide((document.getElementsByClassName('loader'))[0]);
 	//openJSON();
 	//log(allPokemon);
@@ -32,6 +35,8 @@ $(function(){
 				document.body.append(options(e.value));
 			}
 		});
+		if(args[0]!="")
+		selectPokemon(args[args.indexOf('id')+1]);
 	}
 });
 
@@ -43,7 +48,7 @@ function openJSON(){
 	return pokemon;
 }
 function displayTable(list=pokemonList){
-	log(document);
+	console.log(document);
 	var table=document.getElementById('pokemon-list');
 	//grab first item id=0
 	var firstRow=document.getElementById('0');
@@ -89,7 +94,7 @@ function displayTable(list=pokemonList){
 		
 	}
 	
-	log(list);
+	console.log(list);
 	firstRow.parentElement.removeChild(firstRow);
 	
 	//clone
@@ -106,7 +111,7 @@ function selectPokemon(id){
   alert( "Data Loaded: " + data );
 });
 	//name & id
-	log(id);
+	console.log(id);
 	
 	document.getElementById('sprite').setAttribute('src',sprite(id));
 	document.getElementById('name').innerHTML=allPokemon[id].Name;
@@ -114,16 +119,25 @@ function selectPokemon(id){
 	
 	//types
 	var type1=document.getElementById('type1');
-	var type=allPokemon[i].Type1;
+	var type=allPokemon[id].Type1;
 	type1.innerHTML=type;
 	type1.classList.add(type);
+	
 	var type2=document.getElementById('type2');
-	type=allPokemon[i].Type2;
-	type2.innerHTML=type;
-	type2.classList.add(type);
+	type2.classList.remove("Hide");
+	if(allPokemon[id].Type2!=""){
+		type=allPokemon[id].Type2;
+		type2.innerHTML=type;
+		type2.classList.add(type);}
+	else { //ony 1 type
+		type2.classList.add("Hide");
+	}
+	//weaknesses
 	
 	//img
-	document.getElementById('sprite').setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(parseInt(id)+1)+'.png');
+	var num=Number.parseInt(id);
+	num++;
+	document.getElementById('sprite').setAttribute('src','https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+num+'.png');
 	
 	//pokemon genus
 	var genus="";
@@ -141,7 +155,7 @@ function selectPokemon(id){
 	
 	//3d
 	
-	
+	//highlight pokemon in table
 }
 function sprite(id){
 	return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+(id+1)+'.png';
@@ -159,7 +173,7 @@ function optionList(){
 }
 function displayPokemon(id=0){
 	var main=document.getElementsByTagName('main')[0];
-	log(main);
+	console.log(main);
 	//change title
 	//(Three.js)open 3d viewer
 	//change description
